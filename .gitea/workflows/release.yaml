@@ -1,0 +1,103 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Version and image name
+        run: |
+          REGISTRY="${GITHUB_SERVER_URL#*://}"
+          TAG="${GITHUB_REF#refs/tags/}"
+          echo "VERSION=${TAG#v}" >> $GITHUB_ENV
+          echo "REGISTRY=$REGISTRY" >> $GITHUB_ENV
+          echo "IMAGE=$REGISTRY/$(echo "$GITHUB_REPOSITORY" | tr '[:upper:]' '[:lower:]')" >> $GITHUB_ENV
+
+      - name: Tests
+        run: |
+          docker build --target test --label ci.ephemeral=true -t app-test:${VERSION} .
+          docker build --target jstest --label ci.ephemeral=true -t app-jstest:${VERSION} .
+
+      - name: Login to registry
+        run: echo "${{ secrets.REGISTRY_PASSWORD }}" | docker login "$REGISTRY" -u "${{ github.actor }}" --password-stdin
+
+      - name: Build image
+        run: |
+          docker pull $IMAGE:latest || true
+          DOCKER_BUILDKIT=1 docker build --target runtime \
+            --build-arg BUILDKIT_INLINE_CACHE=1 --build-arg APP_VERSION=${VERSION} \
+            --cache-from $IMAGE:latest \
+            -t $IMAGE:${VERSION} -t $IMAGE:latest .
+
+      - name: Smoke health endpoint
+        run: |
+          docker rm -f app-release-smoke 2>/dev/null || true
+          JOB_NETWORK=$(docker inspect "$(hostname)" -f '{{range $name, $_ := .NetworkSettings.Networks}}{{println $name}}{{end}}' 2>/dev/null | head -n1)
+          if [ -n "$JOB_NETWORK" ]; then
+            docker run -d --rm --name app-release-smoke --network "$JOB_NETWORK" -e ALLOWED_HOSTS=app-release-smoke:8000 $IMAGE:${VERSION}
+            BASE="http://app-release-smoke:8000"
+          else
+            docker run -d --rm --name app-release-smoke $IMAGE:${VERSION}
+            BASE="http://$(docker inspect -f '{{range.NetworkSettings.Networks}}{{.IPAddress}}{{end}}' app-release-smoke):8000"
+          fi
+          trap 'docker rm -f app-release-smoke 2>/dev/null || true' EXIT
+          for i in $(seq 1 60); do
+            if curl -fsS "$BASE/health"; then
+              curl -fsS "$BASE/api/v1/overview" >/dev/null
+              curl -fsS "$BASE/" | grep -q "v/${VERSION}/assets/app.js"
+              curl -fsS "$BASE/v/${VERSION}/assets/app.js" >/dev/null
+              exit 0
+            fi
+            sleep 1
+          done
+          docker logs app-release-smoke
+          exit 1
+
+      - name: Push image
+        run: |
+          docker push $IMAGE:${VERSION}
+          docker push $IMAGE:latest
+
+      - name: Create release
+        run: |
+          curl -fsS -X POST "$GITHUB_SERVER_URL/api/v1/repos/$GITHUB_REPOSITORY/releases" \
+            -H "Authorization: token ${{ secrets.TOKEN }}" -H "Content-Type: application/json" \
+            --data "{\"tag_name\":\"v${VERSION}\",\"name\":\"v${VERSION}\",\"body\":\"Image : \`${IMAGE}:${VERSION}\`\"}" || true
+
+      - name: Cleanup Docker
+        if: always()
+        run: |
+          docker rm -f app-release-smoke 2>/dev/null || true
+          docker image rm -f app-test:${VERSION} app-jstest:${VERSION} 2>/dev/null || true
+          docker builder prune -af --filter "until=24h" || true
+          docker image prune -f --filter "until=24h" || true
+
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: build-and-push
+    steps:
+      - name: Deploy
+        env:
+          DEPLOY_SSH_KEY: ${{ secrets.HOMELAB_DEPLOY_SSH_KEY }}
+          DEPLOY_HOST: ${{ secrets.DEPLOY_HOST }}
+          DEPLOY_USER: ${{ secrets.DEPLOY_USER }}
+        run: |
+          set -euo pipefail
+          if ! command -v ssh >/dev/null 2>&1; then
+            apt-get update
+            apt-get install -y --no-install-recommends openssh-client
+          fi
+          TAG="${GITHUB_REF#refs/tags/}"
+          install -m 700 -d ~/.ssh
+          printf '%s\n' "$DEPLOY_SSH_KEY" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+          ssh-keyscan -H "$DEPLOY_HOST" >> ~/.ssh/known_hosts
+          ssh -i ~/.ssh/deploy_key -o IdentitiesOnly=yes -o BatchMode=yes "$DEPLOY_USER@$DEPLOY_HOST" "deploy ${TAG#v}"

@@ -1,0 +1,17 @@
+.git
+.gitea
+.venv
+.cache
+.claude
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+skills-lock.json
+**/__pycache__
+**/*.pyc
+deploy
+*.md
+!README.md
+!THIRD_PARTY_NOTICES.md

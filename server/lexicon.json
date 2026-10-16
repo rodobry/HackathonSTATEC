@@ -1,0 +1,1554 @@
+{
+ "chapters": {
+  "01": {"fr": "Animaux vivants", "en": "Live animals", "de": "Lebende Tiere"},
+  "02": {"fr": "Viande", "en": "Meat", "de": "Fleisch"},
+  "03": {"fr": "Poissons et fruits de mer", "en": "Fish and seafood", "de": "Fisch und Meeresfrüchte"},
+  "04": {"fr": "Lait, œufs et miel", "en": "Dairy, eggs and honey", "de": "Milch, Eier und Honig"},
+  "05": {"fr": "Autres produits animaux", "en": "Other animal products", "de": "Andere tierische Produkte"},
+  "06": {"fr": "Plantes et fleurs", "en": "Plants and flowers", "de": "Pflanzen und Blumen"},
+  "07": {"fr": "Légumes", "en": "Vegetables", "de": "Gemüse"},
+  "08": {"fr": "Fruits et noix", "en": "Fruit and nuts", "de": "Obst und Nüsse"},
+  "09": {"fr": "Café, thé et épices", "en": "Coffee, tea and spices", "de": "Kaffee, Tee und Gewürze"},
+  "10": {"fr": "Céréales", "en": "Cereals", "de": "Getreide"},
+  "11": {"fr": "Farine et malt", "en": "Flour and malt", "de": "Mehl und Malz"},
+  "12": {"fr": "Graines et semences", "en": "Seeds and oilseeds", "de": "Samen und Ölsaaten"},
+  "13": {"fr": "Gommes et résines végétales", "en": "Plant gums and resins", "de": "Pflanzenharze und -säfte"},
+  "14": {"fr": "Autres produits végétaux", "en": "Other plant products", "de": "Andere Pflanzenprodukte"},
+  "15": {"fr": "Huiles et graisses", "en": "Oils and fats", "de": "Öle und Fette"},
+  "16": {"fr": "Charcuterie et conserves", "en": "Sausages and preserves", "de": "Wurst und Konserven"},
+  "17": {"fr": "Sucre et confiseries", "en": "Sugar and sweets", "de": "Zucker und Süßwaren"},
+  "18": {"fr": "Cacao et chocolat", "en": "Cocoa and chocolate", "de": "Kakao und Schokolade"},
+  "19": {"fr": "Pain, pâtes et gâteaux", "en": "Bread, pasta and cakes", "de": "Brot, Nudeln und Gebäck"},
+  "20": {"fr": "Fruits et légumes préparés", "en": "Prepared fruit and vegetables", "de": "Obst- und Gemüsekonserven"},
+  "21": {"fr": "Sauces, soupes et autres", "en": "Sauces, soups and more", "de": "Soßen, Suppen und mehr"},
+  "22": {"fr": "Boissons", "en": "Drinks", "de": "Getränke"},
+  "23": {"fr": "Aliments pour animaux", "en": "Animal feed", "de": "Tierfutter"},
+  "24": {"fr": "Tabac", "en": "Tobacco", "de": "Tabak"},
+  "25": {"fr": "Sel, pierres et ciment", "en": "Salt, stone and cement", "de": "Salz, Steine und Zement"},
+  "26": {"fr": "Minerais", "en": "Ores", "de": "Erze"},
+  "27": {"fr": "Carburants et énergie", "en": "Fuels and energy", "de": "Brennstoffe und Energie"},
+  "28": {"fr": "Produits chimiques minéraux", "en": "Inorganic chemicals", "de": "Anorganische Chemikalien"},
+  "29": {"fr": "Produits chimiques organiques", "en": "Organic chemicals", "de": "Organische Chemikalien"},
+  "30": {"fr": "Produits pharmaceutiques", "en": "Pharmaceuticals", "de": "Pharmazeutische Produkte"},
+  "31": {"fr": "Engrais", "en": "Fertilisers", "de": "Düngemittel"},
+  "32": {"fr": "Peintures, encres et colorants", "en": "Paints, inks and dyes", "de": "Farben, Lacke und Tinten"},
+  "33": {"fr": "Parfums et cosmétiques", "en": "Perfumes and cosmetics", "de": "Parfüm und Kosmetik"},
+  "34": {"fr": "Savons et lessives", "en": "Soaps and detergents", "de": "Seifen und Waschmittel"},
+  "35": {"fr": "Colles et enzymes", "en": "Glues and enzymes", "de": "Klebstoffe und Enzyme"},
+  "36": {"fr": "Explosifs et feux d'artifice", "en": "Explosives and fireworks", "de": "Sprengstoffe und Feuerwerk"},
+  "37": {"fr": "Produits photo", "en": "Photo supplies", "de": "Fotobedarf"},
+  "38": {"fr": "Autres produits chimiques", "en": "Other chemical products", "de": "Andere Chemieprodukte"},
+  "39": {"fr": "Plastiques", "en": "Plastics", "de": "Kunststoffe"},
+  "40": {"fr": "Caoutchouc et pneus", "en": "Rubber and tyres", "de": "Gummi und Reifen"},
+  "41": {"fr": "Cuirs et peaux", "en": "Hides and leather", "de": "Häute und Leder"},
+  "42": {"fr": "Sacs et maroquinerie", "en": "Bags and leather goods", "de": "Taschen und Lederwaren"},
+  "43": {"fr": "Fourrures", "en": "Furs", "de": "Pelze"},
+  "44": {"fr": "Bois", "en": "Wood", "de": "Holz"},
+  "45": {"fr": "Liège", "en": "Cork", "de": "Kork"},
+  "46": {"fr": "Vannerie", "en": "Basketwork", "de": "Korbwaren"},
+  "47": {"fr": "Pâte à papier", "en": "Paper pulp", "de": "Zellstoff"},
+  "48": {"fr": "Papier et carton", "en": "Paper and cardboard", "de": "Papier und Pappe"},
+  "49": {"fr": "Livres et journaux", "en": "Books and newspapers", "de": "Bücher und Zeitungen"},
+  "50": {"fr": "Soie", "en": "Silk", "de": "Seide"},
+  "51": {"fr": "Laine", "en": "Wool", "de": "Wolle"},
+  "52": {"fr": "Coton", "en": "Cotton", "de": "Baumwolle"},
+  "53": {"fr": "Autres fibres végétales", "en": "Other plant fibres", "de": "Andere Pflanzenfasern"},
+  "54": {"fr": "Fils synthétiques", "en": "Synthetic yarns", "de": "Synthetische Garne"},
+  "55": {"fr": "Fibres synthétiques", "en": "Synthetic fibres", "de": "Synthetische Fasern"},
+  "56": {"fr": "Feutres, ficelles et cordes", "en": "Felt, string and rope", "de": "Filz, Schnüre und Seile"},
+  "57": {"fr": "Tapis", "en": "Carpets and rugs", "de": "Teppiche"},
+  "58": {"fr": "Tissus spéciaux et dentelles", "en": "Special fabrics and lace", "de": "Spezialgewebe und Spitzen"},
+  "59": {"fr": "Tissus techniques", "en": "Technical fabrics", "de": "Technische Gewebe"},
+  "60": {"fr": "Tissus en maille", "en": "Knitted fabrics", "de": "Gewirke und Gestricke"},
+  "61": {"fr": "Vêtements en maille", "en": "Knitted clothing", "de": "Strickkleidung"},
+  "62": {"fr": "Vêtements tissés", "en": "Woven clothing", "de": "Gewebte Kleidung"},
+  "63": {"fr": "Linge de maison", "en": "Household linen", "de": "Heimtextilien"},
+  "64": {"fr": "Chaussures", "en": "Shoes", "de": "Schuhe"},
+  "65": {"fr": "Chapeaux et casques", "en": "Hats and helmets", "de": "Hüte und Helme"},
+  "66": {"fr": "Parapluies et cannes", "en": "Umbrellas and walking sticks", "de": "Schirme und Stöcke"},
+  "67": {"fr": "Plumes et fleurs artificielles", "en": "Feathers and fake flowers", "de": "Federn und Kunstblumen"},
+  "68": {"fr": "Pierre, plâtre et béton", "en": "Stone, plaster and concrete", "de": "Stein, Gips und Beton"},
+  "69": {"fr": "Céramique", "en": "Ceramics", "de": "Keramik"},
+  "70": {"fr": "Verre", "en": "Glass", "de": "Glas"},
+  "71": {"fr": "Bijoux et métaux précieux", "en": "Jewellery and precious metals", "de": "Schmuck und Edelmetalle"},
+  "72": {"fr": "Fer et acier", "en": "Iron and steel", "de": "Eisen und Stahl"},
+  "73": {"fr": "Objets en acier", "en": "Steel goods", "de": "Stahlwaren"},
+  "74": {"fr": "Cuivre", "en": "Copper", "de": "Kupfer"},
+  "75": {"fr": "Nickel", "en": "Nickel", "de": "Nickel"},
+  "76": {"fr": "Aluminium", "en": "Aluminium", "de": "Aluminium"},
+  "78": {"fr": "Plomb", "en": "Lead", "de": "Blei"},
+  "79": {"fr": "Zinc", "en": "Zinc", "de": "Zink"},
+  "80": {"fr": "Étain", "en": "Tin", "de": "Zinn"},
+  "81": {"fr": "Autres métaux", "en": "Other metals", "de": "Andere Metalle"},
+  "82": {"fr": "Outils et couverts", "en": "Tools and cutlery", "de": "Werkzeuge und Besteck"},
+  "83": {"fr": "Serrures et quincaillerie", "en": "Locks and fittings", "de": "Schlösser und Beschläge"},
+  "84": {"fr": "Machines", "en": "Machinery", "de": "Maschinen"},
+  "85": {"fr": "Électrique et électronique", "en": "Electrical and electronics", "de": "Elektro und Elektronik"},
+  "86": {"fr": "Trains et tramways", "en": "Trains and trams", "de": "Züge und Straßenbahnen"},
+  "87": {"fr": "Voitures et véhicules", "en": "Cars and vehicles", "de": "Autos und Fahrzeuge"},
+  "88": {"fr": "Avions et satellites", "en": "Aircraft and satellites", "de": "Flugzeuge und Satelliten"},
+  "89": {"fr": "Bateaux", "en": "Ships and boats", "de": "Schiffe und Boote"},
+  "90": {"fr": "Optique et matériel médical", "en": "Optics and medical devices", "de": "Optik und Medizintechnik"},
+  "91": {"fr": "Montres et horloges", "en": "Watches and clocks", "de": "Uhren"},
+  "92": {"fr": "Instruments de musique", "en": "Musical instruments", "de": "Musikinstrumente"},
+  "93": {"fr": "Armes et munitions", "en": "Weapons and ammunition", "de": "Waffen und Munition"},
+  "94": {"fr": "Meubles et luminaires", "en": "Furniture and lighting", "de": "Möbel und Leuchten"},
+  "95": {"fr": "Jouets, jeux et sport", "en": "Toys, games and sport", "de": "Spielzeug, Spiele und Sport"},
+  "96": {"fr": "Objets du quotidien", "en": "Everyday items", "de": "Alltagsgegenstände"},
+  "97": {"fr": "Art et antiquités", "en": "Art and antiques", "de": "Kunst und Antiquitäten"},
+  "99": {"fr": "Autres", "en": "Other", "de": "Sonstiges"}
+ },
+ "products": [
+  {"code": "01", "names": {"fr": "Animaux vivants", "en": "Live animals", "de": "Lebende Tiere"},
+   "synonyms": {
+    "fr": ["animaux vivants", "animal vivant", "bétail", "vache", "vaches", "bovins", "taureau", "taureaux", "cheval", "chevaux", "poney", "poneys", "âne", "cochon", "cochons", "moutons", "élevage"],
+    "en": ["live animals", "livestock", "cattle", "cow", "cows", "bull", "bulls", "horse", "horses", "pony", "donkey", "pigs", "sheep"],
+    "de": ["lebende tiere", "vieh", "nutztiere", "rinder", "kuh", "kühe", "kuehe", "stier", "bulle", "pferd", "pferde", "pony", "esel", "schweine", "schafe"],
+    "lb": ["kéi", "kou", "päerd"],
+    "pt": ["animais vivos", "gado", "vaca", "vacas", "boi", "cavalo", "cavalos", "porcos", "ovelhas"]
+   }, "theme": "food"},
+  {"code": "02", "names": {"fr": "Viande", "en": "Meat", "de": "Fleisch"},
+   "synonyms": {
+    "fr": ["viande", "viandes", "boucherie", "agneau", "viande d'agneau", "gigot", "viande de mouton", "viande hachée", "jambon cru", "jambon sec", "jambon fumé", "lard", "lardons", "bacon", "speck", "abats", "foie", "gibier", "lapin"],
+    "en": ["meat", "lamb", "mutton", "minced meat", "mince", "cured ham", "smoked ham", "prosciutto", "bacon", "offal", "venison", "rabbit"],
+    "de": ["fleisch", "lammfleisch", "lamm", "hackfleisch", "rohschinken", "schinken", "räucherschinken", "raeucherschinken", "speck", "innereien", "wild", "kaninchen"],
+    "lb": ["fleesch", "ham", "speck"],
+    "pt": ["carne", "carnes", "borrego", "cordeiro", "carne picada", "presunto", "toucinho", "bacon", "miudezas", "coelho"]
+   }, "theme": "food"},
+  {"code": "0201", "names": {"fr": "Bœuf", "en": "Beef", "de": "Rindfleisch"},
+   "synonyms": {
+    "fr": ["bœuf", "boeuf", "viande de bœuf", "viande de boeuf", "viande bovine", "steak", "steaks", "veau", "viande de veau", "entrecôte", "rosbif", "bifteck"],
+    "en": ["beef", "steak", "steaks", "veal", "roast beef"],
+    "de": ["rindfleisch", "rind", "kalbfleisch", "kalb", "steak", "rinderfilet", "roastbeef"],
+    "lb": ["rëndfleesch"],
+    "pt": ["carne de vaca", "carne bovina", "bife", "bifes", "vitela"]
+   }, "theme": "food"},
+  {"code": "0203", "names": {"fr": "Porc", "en": "Pork", "de": "Schweinefleisch"},
+   "synonyms": {
+    "fr": ["porc", "viande de porc", "côtelette", "côtelettes", "côte de porc", "rôti de porc", "échine"],
+    "en": ["pork", "pork chop", "pork chops", "pork loin"],
+    "de": ["schweinefleisch", "schwein", "kotelett", "schweinebraten", "schweinefilet"],
+    "lb": ["schwéngefleesch"],
+    "pt": ["carne de porco", "porco", "febras", "costeletas de porco"]
+   }, "theme": "food"},
+  {"code": "0207", "names": {"fr": "Volaille", "en": "Poultry", "de": "Geflügel"},
+   "synonyms": {
+    "fr": ["volaille", "volailles", "poulet", "poulets", "dinde", "canard", "blanc de poulet", "cuisse de poulet", "ailes de poulet", "magret"],
+    "en": ["poultry", "chicken", "chickens", "turkey", "duck", "chicken breast", "chicken wings"],
+    "de": ["geflügel", "gefluegel", "hähnchen", "haehnchen", "huhn", "hühnchen", "huehnchen", "hühnerfleisch", "huehnerfleisch", "pute", "truthahn", "ente", "hähnchenbrust", "haehnchenbrust"],
+    "lb": ["poulet", "poulets"],
+    "pt": ["frango", "frangos", "galinha", "peru", "pato", "aves", "peito de frango"]
+   }, "theme": "food"},
+  {"code": "1601", "names": {"fr": "Saucisses", "en": "Sausages", "de": "Würste"},
+   "synonyms": {
+    "fr": ["saucisse", "saucisses", "saucisson", "saucissons", "salami", "chorizo", "merguez", "boudin", "cervelas", "knacki", "mettwurst", "charcuterie"],
+    "en": ["sausage", "sausages", "salami", "chorizo", "hot dog", "hot dogs", "black pudding"],
+    "de": ["wurst", "würste", "wuerste", "würstchen", "wuerstchen", "bratwurst", "mettwurst", "salami", "wiener", "leberwurst", "aufschnitt"],
+    "lb": ["wurscht", "mettwurscht"],
+    "pt": ["salsicha", "salsichas", "chouriço", "chouriços", "linguiça", "alheira", "salpicão", "enchidos"]
+   }, "theme": "food"},
+  {"code": "1602", "names": {"fr": "Conserves de viande", "en": "Prepared meat", "de": "Fleischkonserven"},
+   "synonyms": {
+    "fr": ["jambon", "jambon cuit", "jambon blanc", "pâté", "terrine", "rillettes", "conserve de viande", "conserves de viande", "corned-beef", "nuggets", "foie gras", "boulettes de viande", "cordon bleu"],
+    "en": ["ham", "cooked ham", "pâté", "terrine", "canned meat", "corned beef", "chicken nuggets", "nuggets", "meatballs", "foie gras"],
+    "de": ["kochschinken", "pastete", "fleischkonserve", "fleischkonserven", "corned beef", "chicken nuggets", "fleischbällchen", "fleischbaellchen", "frikadellen"],
+    "pt": ["fiambre", "patê", "carne enlatada", "conservas de carne", "almôndegas"]
+   }, "theme": "food"},
+  {"code": "03", "names": {"fr": "Poissons et fruits de mer", "en": "Fish and seafood", "de": "Fisch und Meeresfrüchte"},
+   "synonyms": {
+    "fr": ["poisson", "poissons", "fruits de mer", "poisson frais", "poisson surgelé", "poisson congelé", "truite", "dorade", "daurade", "sole", "hareng", "harengs", "morue", "morue salée", "bacalhau", "stockfisch", "saumon fumé", "poisson fumé", "moules", "huîtres", "calamar", "calamars", "seiche", "poulpe", "pieuvre", "saint-jacques", "coquilles saint-jacques", "palourdes", "coquillages", "escargots"],
+    "en": ["fish", "seafood", "fresh fish", "frozen fish", "trout", "sea bream", "herring", "salted cod", "salt cod", "bacalhau", "smoked salmon", "smoked fish", "mussels", "oysters", "squid", "octopus", "scallops", "clams", "shellfish", "snails"],
+    "de": ["fisch", "fische", "meeresfrüchte", "meeresfruechte", "frischfisch", "tiefkühlfisch", "tiefkuehlfisch", "forelle", "dorade", "hering", "matjes", "stockfisch", "klippfisch", "räucherlachs", "raeucherlachs", "räucherfisch", "raeucherfisch", "muscheln", "miesmuscheln", "austern", "tintenfisch", "kalmar", "oktopus", "jakobsmuscheln", "schnecken"],
+    "lb": ["fësch"],
+    "pt": ["peixe", "peixes", "marisco", "mariscos", "peixe fresco", "peixe congelado", "truta", "dourada", "robalo", "bacalhau", "bacalhau salgado", "salmão fumado", "mexilhões", "ostras", "lulas", "choco", "polvo", "amêijoas", "berbigão", "caracóis"]
+   }, "theme": "food"},
+  {"code": "0304", "names": {"fr": "Filets de poisson", "en": "Fish fillets", "de": "Fischfilets"},
+   "synonyms": {
+    "fr": ["filet de poisson", "filets de poisson", "saumon", "filet de saumon", "cabillaud", "colin", "lieu noir", "merlu", "pangasius", "poisson blanc"],
+    "en": ["fish fillet", "fish fillets", "salmon", "salmon fillet", "cod", "hake", "pollock", "haddock"],
+    "de": ["fischfilet", "fischfilets", "lachs", "lachsfilet", "kabeljau", "seelachs", "seehecht", "pangasius"],
+    "pt": ["filetes de peixe", "filete de peixe", "salmão", "pescada", "maruca"]
+   }, "theme": "food"},
+  {"code": "0306", "names": {"fr": "Crevettes et crustacés", "en": "Shrimps and crustaceans", "de": "Garnelen und Krebstiere"},
+   "synonyms": {
+    "fr": ["crevette", "crevettes", "gambas", "homard", "homards", "langouste", "langoustine", "langoustines", "crabe", "crabes", "écrevisses", "crustacés"],
+    "en": ["shrimp", "shrimps", "prawn", "prawns", "lobster", "lobsters", "crab", "crabs", "crayfish", "crustaceans"],
+    "de": ["garnelen", "krabben", "shrimps", "scampi", "hummer", "languste", "langusten", "krebse", "krebstiere"],
+    "pt": ["camarão", "camarões", "gambas", "lagosta", "lagostim", "lagostins", "sapateira", "caranguejo", "crustáceos"]
+   }, "theme": "food"},
+  {"code": "1604", "names": {"fr": "Conserves de poisson", "en": "Canned fish", "de": "Fischkonserven"},
+   "synonyms": {
+    "fr": ["thon", "thon en boîte", "sardines", "sardines à l'huile", "maquereau", "maquereaux", "anchois", "conserve de poisson", "conserves de poisson", "caviar", "surimi", "bâtonnets de poisson", "poisson pané", "rollmops"],
+    "en": ["tuna", "canned tuna", "tinned tuna", "sardines", "mackerel", "anchovies", "canned fish", "tinned fish", "caviar", "surimi", "fish fingers", "fish sticks"],
+    "de": ["thunfisch", "sardinen", "makrele", "makrelen", "sardellen", "fischkonserve", "fischkonserven", "kaviar", "surimi", "fischstäbchen", "fischstaebchen", "rollmops"],
+    "pt": ["atum", "atum em lata", "sardinhas", "sardinhas em lata", "cavala", "anchovas", "conservas de peixe", "caviar", "douradinhos"]
+   }, "theme": "food"},
+  {"code": "04", "names": {"fr": "Lait, œufs et miel", "en": "Dairy, eggs and honey", "de": "Milch, Eier und Honig"},
+   "synonyms": {
+    "fr": ["produits laitiers", "laitages", "miel", "lait en poudre", "lait concentré", "lait concentré sucré", "poudre de lait", "lactosérum"],
+    "en": ["dairy", "dairy products", "honey", "milk powder", "powdered milk", "condensed milk", "whey"],
+    "de": ["milchprodukte", "molkereiprodukte", "honig", "milchpulver", "kondensmilch", "trockenmilch", "molke"],
+    "lb": ["hunneg"],
+    "pt": ["laticínios", "lacticínios", "mel", "leite em pó", "leite condensado", "soro de leite"]
+   }, "theme": "food"},
+  {"code": "0401", "names": {"fr": "Lait", "en": "Milk", "de": "Milch"},
+   "synonyms": {
+    "fr": ["lait", "lait frais", "lait entier", "lait demi-écrémé", "lait écrémé", "brique de lait", "crème liquide", "crème fleurette"],
+    "en": ["milk", "fresh milk", "whole milk", "semi-skimmed milk", "skimmed milk", "cream", "single cream", "double cream"],
+    "de": ["milch", "frischmilch", "vollmilch", "h-milch", "fettarme milch", "sahne", "schlagsahne"],
+    "lb": ["mëllech"],
+    "pt": ["leite", "leite gordo", "leite meio-gordo", "leite magro", "natas"]
+   }, "litres": true, "theme": "drinks"},
+  {"code": "0403", "names": {"fr": "Yaourts", "en": "Yoghurt", "de": "Joghurt"},
+   "synonyms": {
+    "fr": ["yaourt", "yaourts", "yoghourt", "yogourt", "yogurt", "kéfir", "lait fermenté", "crème fraîche", "babeurre"],
+    "en": ["yoghurt", "yogurt", "yoghurts", "yogurts", "kefir", "sour cream", "buttermilk", "crème fraîche"],
+    "de": ["joghurt", "jogurt", "kefir", "buttermilch", "sauerrahm", "saure sahne", "schmand"],
+    "pt": ["iogurte", "iogurtes", "kefir", "leite fermentado"]
+   }, "theme": "food"},
+  {"code": "0405", "names": {"fr": "Beurre", "en": "Butter", "de": "Butter"},
+   "synonyms": {
+    "fr": ["beurre", "beurre doux", "beurre salé", "ghee"],
+    "en": ["butter", "salted butter", "ghee"],
+    "de": ["butter", "butterschmalz", "ghee"],
+    "lb": ["botter"],
+    "pt": ["manteiga"]
+   }, "theme": "food"},
+  {"code": "0406", "names": {"fr": "Fromage", "en": "Cheese", "de": "Käse"},
+   "synonyms": {
+    "fr": ["fromage", "fromages", "camembert", "brie", "emmental", "gruyère", "comté", "mozzarella", "feta", "parmesan", "raclette", "gouda", "mascarpone", "fromage râpé", "fromage blanc", "cancoillotte", "kachkéis"],
+    "en": ["cheese", "cheeses", "cheddar", "mozzarella", "parmesan", "feta", "gouda", "brie", "cottage cheese", "cream cheese"],
+    "de": ["käse", "kaese", "frischkäse", "frischkaese", "kochkäse", "kochkaese", "hartkäse", "hartkaese", "emmentaler", "gouda", "mozzarella", "parmesan", "quark"],
+    "lb": ["kéis", "kachkéis"],
+    "pt": ["queijo", "queijos", "queijo fresco", "requeijão", "queijo da serra"]
+   }, "theme": "food"},
+  {"code": "0407", "names": {"fr": "Œufs", "en": "Eggs", "de": "Eier"},
+   "synonyms": {
+    "fr": ["œuf", "oeuf", "œufs", "oeufs", "œufs frais", "oeufs frais", "œufs bio", "oeufs bio"],
+    "en": ["egg", "eggs", "free-range eggs"],
+    "de": ["ei", "eier", "hühnereier", "huehnereier"],
+    "lb": ["eeër"],
+    "pt": ["ovo", "ovos"]
+   }, "theme": "food"},
+  {"code": "06", "names": {"fr": "Plantes et fleurs", "en": "Plants and flowers", "de": "Pflanzen und Blumen"},
+   "synonyms": {
+    "fr": ["plante", "plantes", "plantes vertes", "plante d'intérieur", "arbuste", "arbustes", "arbre", "arbres", "rosier", "fleur", "fleurs", "fleurs coupées", "bouquet", "bouquet de fleurs", "roses", "tulipes", "orchidées", "bulbes"],
+    "en": ["plant", "plants", "houseplant", "houseplants", "shrub", "shrubs", "tree", "trees", "flower", "flowers", "cut flowers", "bouquet", "roses", "tulips", "orchids"],
+    "de": ["pflanze", "pflanzen", "zimmerpflanze", "zimmerpflanzen", "strauch", "sträucher", "straeucher", "baum", "bäume", "baeume", "blume", "blumen", "schnittblumen", "blumenstrauß", "blumenstrauss", "rosen", "tulpen", "orchideen"],
+    "lb": ["planzen", "beem", "blummen"],
+    "pt": ["planta", "plantas", "arbusto", "arbustos", "árvore", "árvores", "flor", "flores", "ramo de flores", "rosas", "tulipas", "orquídeas"]
+   }, "theme": "home"},
+  {"code": "07", "names": {"fr": "Légumes", "en": "Vegetables", "de": "Gemüse"},
+   "synonyms": {
+    "fr": ["légume", "légumes", "légumes frais", "chou", "choux", "chou-fleur", "brocoli", "brocolis", "chou de bruxelles", "choux de bruxelles", "concombre", "concombres", "haricots verts", "petits pois", "épinards", "artichaut", "asperges", "légumes surgelés", "lentilles", "pois chiches", "haricots secs", "haricots rouges", "fèves", "légumineuses"],
+    "en": ["vegetable", "vegetables", "veggies", "fresh vegetables", "cabbage", "cauliflower", "broccoli", "brussels sprouts", "cucumber", "cucumbers", "green beans", "peas", "spinach", "artichoke", "asparagus", "frozen vegetables", "lentils", "chickpeas", "dried beans", "kidney beans", "pulses"],
+    "de": ["gemüse", "gemuese", "frischgemüse", "frischgemuese", "kohl", "blumenkohl", "brokkoli", "rosenkohl", "gurke", "gurken", "grüne bohnen", "gruene bohnen", "erbsen", "spinat", "artischocke", "spargel", "tiefkühlgemüse", "tiefkuehlgemuese", "linsen", "kichererbsen", "hülsenfrüchte", "huelsenfruechte"],
+    "lb": ["geméis"],
+    "pt": ["legumes", "hortaliças", "verduras", "couve", "couves", "couve-flor", "brócolos", "pepino", "pepinos", "feijão verde", "ervilhas", "espinafres", "espargos", "legumes congelados", "lentilhas", "grão-de-bico", "feijão", "favas"]
+   }, "theme": "food"},
+  {"code": "0701", "names": {"fr": "Pommes de terre", "en": "Potatoes", "de": "Kartoffeln"},
+   "synonyms": {
+    "fr": ["pomme de terre", "pommes de terre", "patate", "patates"],
+    "en": ["potato", "potatoes"],
+    "de": ["kartoffel", "kartoffeln", "erdäpfel", "erdaepfel"],
+    "lb": ["gromperen", "gromper"],
+    "pt": ["batata", "batatas"]
+   }, "theme": "food"},
+  {"code": "0702", "names": {"fr": "Tomates", "en": "Tomatoes", "de": "Tomaten"},
+   "synonyms": {
+    "fr": ["tomate", "tomates", "tomates cerises"],
+    "en": ["tomato", "tomatoes", "cherry tomatoes"],
+    "de": ["tomate", "tomaten", "cherrytomaten"],
+    "lb": ["tomaten"],
+    "pt": ["tomate", "tomates", "tomate cereja"]
+   }, "theme": "food"},
+  {"code": "0703", "names": {"fr": "Oignons et ail", "en": "Onions and garlic", "de": "Zwiebeln und Knoblauch"},
+   "synonyms": {
+    "fr": ["oignon", "oignons", "ail", "échalote", "échalotes", "poireau", "poireaux"],
+    "en": ["onion", "onions", "garlic", "shallot", "shallots", "leek", "leeks"],
+    "de": ["zwiebel", "zwiebeln", "knoblauch", "schalotten", "lauch", "porree"],
+    "pt": ["cebola", "cebolas", "alho", "alhos", "chalota", "alho-francês"]
+   }, "theme": "food"},
+  {"code": "0705", "names": {"fr": "Salades", "en": "Lettuce", "de": "Salat"},
+   "synonyms": {
+    "fr": ["salade", "salades", "laitue", "laitues", "endive", "endives", "chicorée", "scarole"],
+    "en": ["lettuce", "salad", "endive", "chicory"],
+    "de": ["salat", "kopfsalat", "eisbergsalat", "chicorée", "endivie"],
+    "lb": ["zalot"],
+    "pt": ["alface", "alfaces", "endívia", "endívias"]
+   }, "theme": "food"},
+  {"code": "0706", "names": {"fr": "Carottes et radis", "en": "Carrots and radishes", "de": "Karotten und Radieschen"},
+   "synonyms": {
+    "fr": ["carotte", "carottes", "radis", "betterave", "betteraves", "navet", "navets", "céleri-rave", "panais"],
+    "en": ["carrot", "carrots", "radish", "radishes", "beetroot", "turnip", "turnips", "celeriac", "parsnip", "parsnips"],
+    "de": ["karotte", "karotten", "möhre", "moehre", "möhren", "moehren", "radieschen", "rettich", "rote bete", "rüben", "rueben", "knollensellerie", "pastinaken"],
+    "lb": ["muerten"],
+    "pt": ["cenoura", "cenouras", "rabanete", "rabanetes", "beterraba", "nabo", "nabos"]
+   }, "theme": "food"},
+  {"code": "0709", "names": {"fr": "Autres légumes frais", "en": "Other fresh vegetables", "de": "Anderes Frischgemüse"},
+   "synonyms": {
+    "fr": ["courgette", "courgettes", "poivron", "poivrons", "aubergine", "aubergines", "champignon", "champignons", "céleri", "fenouil", "potiron", "citrouille", "courge", "maïs doux"],
+    "en": ["courgette", "courgettes", "zucchini", "bell pepper", "bell peppers", "aubergine", "eggplant", "mushroom", "mushrooms", "celery", "fennel", "pumpkin", "squash", "sweetcorn"],
+    "de": ["zucchini", "paprika", "aubergine", "auberginen", "pilze", "champignons", "sellerie", "fenchel", "kürbis", "kuerbis", "zuckermais"],
+    "pt": ["courgete", "curgete", "pimento", "pimentos", "beringela", "beringelas", "cogumelos", "aipo", "funcho", "abóbora"]
+   }, "theme": "food"},
+  {"code": "08", "names": {"fr": "Fruits et noix", "en": "Fruit and nuts", "de": "Obst und Nüsse"},
+   "synonyms": {
+    "fr": ["fruit", "fruits", "fruits frais", "avocat", "avocats", "mangue", "mangues", "ananas", "figue", "figues", "dattes", "raisin", "raisins", "raisins secs", "melon", "melons", "pastèque", "papaye", "noix de coco", "fruits exotiques", "fruits secs", "pruneaux", "abricots secs"],
+    "en": ["fruit", "fruits", "fresh fruit", "avocado", "avocados", "mango", "mangoes", "pineapple", "figs", "dates", "grapes", "raisins", "sultanas", "melon", "melons", "watermelon", "papaya", "coconut", "tropical fruit", "dried fruit", "dried plums"],
+    "de": ["obst", "früchte", "fruechte", "frucht", "avocado", "avocados", "mango", "mangos", "ananas", "feigen", "datteln", "trauben", "weintrauben", "rosinen", "melone", "melonen", "wassermelone", "papaya", "kokosnuss", "trockenobst", "trockenfrüchte", "trockenfruechte", "backpflaumen"],
+    "lb": ["uebst", "drauwen"],
+    "pt": ["fruta", "frutas", "fruta fresca", "abacate", "manga", "mangas", "ananás", "abacaxi", "figos", "tâmaras", "uvas", "uva", "passas", "melão", "melancia", "papaia", "coco", "fruta seca"]
+   }, "theme": "food"},
+  {"code": "0802", "names": {"fr": "Noix et amandes", "en": "Nuts", "de": "Nüsse"},
+   "synonyms": {
+    "fr": ["noix", "noisette", "noisettes", "amande", "amandes", "pistache", "pistaches", "châtaigne", "châtaignes", "marron", "marrons", "noix de pécan", "noix de macadamia", "fruits à coque"],
+    "en": ["nuts", "walnut", "walnuts", "hazelnut", "hazelnuts", "almond", "almonds", "pistachio", "pistachios", "chestnut", "chestnuts", "pecans", "macadamia"],
+    "de": ["nüsse", "nuesse", "nuss", "walnüsse", "walnuesse", "haselnüsse", "haselnuesse", "mandeln", "pistazien", "kastanien", "maronen", "esskastanien", "pekannüsse", "pekannuesse"],
+    "lb": ["nëss"],
+    "pt": ["nozes", "noz", "avelãs", "amêndoas", "pistácios", "castanhas", "frutos secos"]
+   }, "theme": "food"},
+  {"code": "0803", "names": {"fr": "Bananes", "en": "Bananas", "de": "Bananen"},
+   "synonyms": {
+    "fr": ["banane", "bananes", "banane plantain", "plantain"],
+    "en": ["banana", "bananas", "plantain", "plantains"],
+    "de": ["banane", "bananen", "kochbanane"],
+    "lb": ["bananen"],
+    "pt": ["banana", "bananas"]
+   }, "theme": "food"},
+  {"code": "0805", "names": {"fr": "Agrumes", "en": "Citrus fruit", "de": "Zitrusfrüchte"},
+   "synonyms": {
+    "fr": ["agrumes", "orange", "oranges", "citron", "citrons", "citron vert", "mandarine", "mandarines", "clémentine", "clémentines", "pamplemousse", "pomelo"],
+    "en": ["citrus", "citrus fruit", "orange", "oranges", "lemon", "lemons", "lime", "limes", "mandarin", "mandarins", "clementine", "clementines", "tangerine", "grapefruit"],
+    "de": ["zitrusfrüchte", "zitrusfruechte", "orange", "orangen", "apfelsine", "apfelsinen", "zitrone", "zitronen", "limette", "limetten", "mandarine", "mandarinen", "clementine", "clementinen", "grapefruit", "pampelmuse"],
+    "pt": ["citrinos", "laranja", "laranjas", "limão", "limões", "lima", "tangerina", "tangerinas", "clementina", "clementinas", "toranja"]
+   }, "theme": "food"},
+  {"code": "0808", "names": {"fr": "Pommes et poires", "en": "Apples and pears", "de": "Äpfel und Birnen"},
+   "synonyms": {
+    "fr": ["pomme", "pommes", "poire", "poires", "coing", "coings"],
+    "en": ["apple", "apples", "pear", "pears", "quince"],
+    "de": ["apfel", "äpfel", "aepfel", "birne", "birnen", "quitte", "quitten"],
+    "lb": ["äppel", "bieren"],
+    "pt": ["maçã", "maçãs", "pera", "peras", "pêra", "marmelo"]
+   }, "theme": "food"},
+  {"code": "0809", "names": {"fr": "Cerises et prunes", "en": "Cherries and plums", "de": "Kirschen und Pflaumen"},
+   "synonyms": {
+    "fr": ["cerise", "cerises", "pêche", "pêches", "abricot", "abricots", "prune", "prunes", "nectarine", "nectarines", "brugnon", "mirabelle", "mirabelles", "quetsche", "quetsches", "fruits à noyau"],
+    "en": ["cherry", "cherries", "peach", "peaches", "apricot", "apricots", "plum", "plums", "nectarine", "nectarines", "stone fruit"],
+    "de": ["kirsche", "kirschen", "pfirsich", "pfirsiche", "aprikose", "aprikosen", "pflaume", "pflaumen", "zwetschge", "zwetschgen", "zwetschen", "mirabellen", "nektarinen", "steinobst"],
+    "lb": ["kiischten", "quetschen", "mirabellen"],
+    "pt": ["cereja", "cerejas", "pêssego", "pêssegos", "alperce", "alperces", "damasco", "ameixa", "ameixas", "nectarina", "nectarinas"]
+   }, "theme": "food"},
+  {"code": "0810", "names": {"fr": "Fraises et petits fruits", "en": "Strawberries and berries", "de": "Erdbeeren und Beeren"},
+   "synonyms": {
+    "fr": ["fraise", "fraises", "framboise", "framboises", "myrtille", "myrtilles", "mûre", "mûres", "groseille", "groseilles", "cassis", "kiwi", "kiwis", "litchi", "litchis", "fruits rouges"],
+    "en": ["strawberry", "strawberries", "raspberry", "raspberries", "blueberries", "blackberries", "berries", "currants", "kiwi", "kiwis", "kiwifruit", "lychee", "lychees"],
+    "de": ["erdbeere", "erdbeeren", "himbeeren", "heidelbeeren", "blaubeeren", "brombeeren", "johannisbeeren", "beeren", "kiwi", "kiwis", "litschi"],
+    "lb": ["äerdbier"],
+    "pt": ["morango", "morangos", "framboesa", "framboesas", "mirtilo", "mirtilos", "amoras", "groselhas", "kiwi", "kiwis", "quivi", "lichia", "frutos vermelhos"]
+   }, "theme": "food"},
+  {"code": "0901", "names": {"fr": "Café", "en": "Coffee", "de": "Kaffee"},
+   "synonyms": {
+    "fr": ["café", "cafés", "café en grains", "grains de café", "café moulu", "capsules de café", "capsule de café", "dosettes", "expresso", "espresso", "café décaféiné", "déca"],
+    "en": ["coffee", "coffee beans", "ground coffee", "coffee capsules", "coffee pods", "espresso", "decaf"],
+    "de": ["kaffee", "kaffeebohnen", "gemahlener kaffee", "kaffeekapseln", "kaffeepads", "espresso", "entkoffeiniert"],
+    "lb": ["kaffi"],
+    "pt": ["café", "cafés", "café em grão", "café moído", "cápsulas de café", "bica", "descafeinado"]
+   }, "theme": "food"},
+  {"code": "0902", "names": {"fr": "Thé", "en": "Tea", "de": "Tee"},
+   "synonyms": {
+    "fr": ["thé", "thés", "thé vert", "thé noir", "sachets de thé", "sachet de thé"],
+    "en": ["tea", "green tea", "black tea", "tea bags", "teabags"],
+    "de": ["tee", "grüner tee", "gruener tee", "schwarzer tee", "teebeutel"],
+    "lb": ["téi"],
+    "pt": ["chá", "chás", "chá verde", "chá preto"]
+   }, "theme": "food"},
+  {"code": "09", "names": {"fr": "Café, thé et épices", "en": "Coffee, tea and spices", "de": "Kaffee, Tee und Gewürze"},
+   "synonyms": {
+    "fr": ["épices", "épice", "poivre", "poivre noir", "piment", "piments", "paprika", "curry", "safran", "gingembre", "curcuma", "cannelle", "vanille", "muscade", "noix de muscade", "clous de girofle", "cumin", "thym", "laurier", "maté"],
+    "en": ["spices", "spice", "pepper", "black pepper", "chilli", "chili", "paprika", "curry", "saffron", "ginger", "turmeric", "cinnamon", "vanilla", "nutmeg", "cloves", "cumin", "thyme", "bay leaves"],
+    "de": ["gewürze", "gewuerze", "gewürz", "gewuerz", "pfeffer", "chili", "chilipulver", "curry", "safran", "ingwer", "kurkuma", "zimt", "vanille", "muskatnuss", "nelken", "kümmel", "kuemmel", "kreuzkümmel", "kreuzkuemmel", "thymian", "lorbeer"],
+    "pt": ["especiarias", "especiaria", "pimenta", "piri-piri", "colorau", "caril", "açafrão", "gengibre", "curcuma", "canela", "baunilha", "noz-moscada", "cravinho", "cominhos", "tomilho", "louro"]
+   }, "theme": "food"},
+  {"code": "10", "names": {"fr": "Céréales", "en": "Cereals", "de": "Getreide"},
+   "synonyms": {
+    "fr": ["céréales", "céréale", "blé", "froment", "épeautre", "maïs", "orge", "avoine", "seigle", "sarrasin", "quinoa", "grains de céréales"],
+    "en": ["cereals", "cereal", "grain", "grains", "wheat", "spelt", "maize", "corn", "barley", "oats", "rye", "buckwheat", "quinoa"],
+    "de": ["getreide", "korn", "weizen", "dinkel", "hartweizen", "mais", "gerste", "hafer", "roggen", "buchweizen", "quinoa"],
+    "pt": ["cereais", "trigo", "milho", "cevada", "aveia", "centeio", "trigo-sarraceno", "quinoa"]
+   }, "theme": "food"},
+  {"code": "1006", "names": {"fr": "Riz", "en": "Rice", "de": "Reis"},
+   "synonyms": {
+    "fr": ["riz", "riz basmati", "riz complet", "riz long", "riz thaï"],
+    "en": ["rice", "basmati rice", "brown rice", "long grain rice"],
+    "de": ["reis", "basmatireis", "vollkornreis", "langkornreis"],
+    "lb": ["räis"],
+    "pt": ["arroz", "arroz basmati", "arroz carolino", "arroz agulha"]
+   }, "theme": "food"},
+  {"code": "1101", "names": {"fr": "Farine", "en": "Flour", "de": "Mehl"},
+   "synonyms": {
+    "fr": ["farine", "farines", "farine de blé", "farine blanche"],
+    "en": ["flour", "wheat flour", "plain flour", "white flour"],
+    "de": ["mehl", "weizenmehl"],
+    "pt": ["farinha", "farinha de trigo"]
+   }, "theme": "food"},
+  {"code": "15", "names": {"fr": "Huiles et graisses", "en": "Oils and fats", "de": "Öle und Fette"},
+   "synonyms": {
+    "fr": ["huile", "huiles", "huile de cuisine", "huile végétale", "huile de tournesol", "huile de colza", "huile de palme", "margarine", "graisse", "graisses", "matières grasses", "saindoux"],
+    "en": ["oil", "oils", "cooking oil", "vegetable oil", "sunflower oil", "rapeseed oil", "canola oil", "palm oil", "margarine", "fat", "fats"],
+    "de": ["öl", "oel", "öle", "oele", "speiseöl", "speiseoel", "pflanzenöl", "pflanzenoel", "sonnenblumenöl", "sonnenblumenoel", "rapsöl", "rapsoel", "palmöl", "palmoel", "margarine", "fett", "fette", "schmalz"],
+    "lb": ["ueleg"],
+    "pt": ["óleo", "óleos", "óleo vegetal", "óleo de girassol", "óleo de palma", "margarina", "gordura", "banha"]
+   }, "theme": "food"},
+  {"code": "1509", "names": {"fr": "Huile d'olive", "en": "Olive oil", "de": "Olivenöl"},
+   "synonyms": {
+    "fr": ["huile d'olive", "huile d'olive vierge", "huile d'olive extra vierge"],
+    "en": ["olive oil", "extra virgin olive oil", "virgin olive oil"],
+    "de": ["olivenöl", "olivenoel", "natives olivenöl", "natives olivenoel"],
+    "pt": ["azeite", "azeite virgem", "azeite virgem extra"]
+   }, "theme": "food"},
+  {"code": "1701", "names": {"fr": "Sucre", "en": "Sugar", "de": "Zucker"},
+   "synonyms": {
+    "fr": ["sucre", "sucres", "sucre en poudre", "sucre blanc", "sucre de canne", "sucre roux", "cassonade", "sucre glace", "sucre en morceaux"],
+    "en": ["sugar", "cane sugar", "brown sugar", "white sugar", "icing sugar", "caster sugar"],
+    "de": ["zucker", "rohrzucker", "brauner zucker", "puderzucker", "würfelzucker", "wuerfelzucker", "kristallzucker"],
+    "lb": ["zocker"],
+    "pt": ["açúcar", "açúcar mascavado", "açúcar branco", "açúcar em pó"]
+   }, "theme": "food"},
+  {"code": "1704", "names": {"fr": "Bonbons", "en": "Sweets", "de": "Süßigkeiten"},
+   "synonyms": {
+    "fr": ["bonbon", "bonbons", "confiserie", "confiseries", "chewing-gum", "réglisse", "chocolat blanc", "sucette", "sucettes", "guimauve", "marshmallow", "caramel", "caramels", "nougat", "dragées", "friandises"],
+    "en": ["sweets", "candy", "candies", "chewing gum", "liquorice", "licorice", "white chocolate", "lollipop", "lollipops", "marshmallows", "toffee", "gummy bears", "confectionery"],
+    "de": ["süßigkeiten", "suessigkeiten", "bonbons", "kaugummi", "lakritz", "weiße schokolade", "weisse schokolade", "lutscher", "gummibärchen", "gummibaerchen", "fruchtgummi", "karamell", "süßwaren", "suesswaren"],
+    "lb": ["kamellen"],
+    "pt": ["rebuçados", "doces", "gomas", "pastilha elástica", "chiclete", "chocolate branco", "chupa-chupa", "caramelos"]
+   }, "theme": "food"},
+  {"code": "1806", "names": {"fr": "Chocolat", "en": "Chocolate", "de": "Schokolade"},
+   "synonyms": {
+    "fr": ["chocolat", "chocolats", "tablette de chocolat", "chocolat noir", "chocolat au lait", "pralines", "pâte à tartiner", "cacao", "chocolat en poudre", "barre chocolatée", "bonbons au chocolat"],
+    "en": ["chocolate", "chocolates", "chocolate bar", "dark chocolate", "milk chocolate", "pralines", "chocolate spread", "cocoa", "hot chocolate"],
+    "de": ["schokolade", "tafel schokolade", "zartbitterschokolade", "vollmilchschokolade", "pralinen", "schokoaufstrich", "nussnougatcreme", "kakao", "kakaopulver", "schokoriegel"],
+    "lb": ["schockela"],
+    "pt": ["chocolate", "chocolates", "tablete de chocolate", "bombons", "cacau", "chocolate em pó"]
+   }, "theme": "food"},
+  {"code": "1902", "names": {"fr": "Pâtes", "en": "Pasta", "de": "Nudeln"},
+   "synonyms": {
+    "fr": ["pâtes", "pâtes alimentaires", "spaghetti", "spaghettis", "nouilles", "lasagnes", "raviolis", "macaronis", "tortellini", "tagliatelles", "penne", "gnocchi", "couscous"],
+    "en": ["pasta", "spaghetti", "noodles", "lasagne", "lasagna", "ravioli", "macaroni", "tortellini", "tagliatelle", "penne", "gnocchi", "couscous"],
+    "de": ["nudeln", "pasta", "teigwaren", "spaghetti", "lasagne", "ravioli", "makkaroni", "tortellini", "spätzle", "spaetzle", "couscous"],
+    "lb": ["nuddelen"],
+    "pt": ["massa", "massas", "esparguete", "macarrão", "lasanha", "raviolis", "cuscuz"]
+   }, "theme": "food"},
+  {"code": "1905", "names": {"fr": "Pain et pâtisseries", "en": "Bread and pastries", "de": "Brot und Backwaren"},
+   "synonyms": {
+    "fr": ["pain", "pains", "baguette", "baguettes", "viennoiserie", "viennoiseries", "croissant", "croissants", "pain au chocolat", "gâteau", "gâteaux", "biscuit", "biscuits", "gaufre", "gaufres", "pâtisserie", "pâtisseries", "biscotte", "biscottes", "pain d'épices", "brioche", "tarte", "tartes", "quiche", "pizza", "pizzas", "crackers", "boulangerie"],
+    "en": ["bread", "baguette", "croissant", "croissants", "pastry", "pastries", "cake", "cakes", "biscuits", "cookies", "cookie", "waffles", "crackers", "gingerbread", "pizza", "pizzas", "bakery"],
+    "de": ["brot", "brötchen", "broetchen", "backwaren", "gebäck", "gebaeck", "kuchen", "torte", "kekse", "keks", "croissant", "waffeln", "zwieback", "lebkuchen", "pizza", "cracker"],
+    "lb": ["brout", "kuch"],
+    "pt": ["pão", "pães", "bolo", "bolos", "bolachas", "biscoitos", "pastelaria", "pastel de nata", "croissant", "broa", "tostas", "pizza"]
+   }, "theme": "food"},
+  {"code": "20", "names": {"fr": "Fruits et légumes préparés", "en": "Prepared fruit and vegetables", "de": "Obst- und Gemüsekonserven"},
+   "synonyms": {
+    "fr": ["conserves de légumes", "légumes en conserve", "fruits en conserve", "fruits au sirop", "frites", "frites surgelées", "pommes frites", "chips", "olives", "cornichons", "choucroute", "confiture", "confitures", "marmelade", "compote", "compotes", "beurre de cacahuète", "cacahuètes", "purée en flocons"],
+    "en": ["canned vegetables", "tinned vegetables", "canned fruit", "tinned fruit", "fries", "french fries", "frozen chips", "crisps", "potato chips", "olives", "gherkins", "pickles", "sauerkraut", "jam", "jams", "marmalade", "compote", "peanut butter", "peanuts", "baked beans"],
+    "de": ["gemüsekonserven", "gemuesekonserven", "dosengemüse", "dosengemuese", "obstkonserven", "dosenobst", "pommes frites", "fritten", "chips", "kartoffelchips", "oliven", "essiggurken", "gewürzgurken", "gewuerzgurken", "sauerkraut", "konfitüre", "konfituere", "marmelade", "kompott", "apfelmus", "erdnussbutter", "erdnüsse", "erdnuesse"],
+    "lb": ["fritten"],
+    "pt": ["conservas de legumes", "fruta em calda", "batatas fritas", "batatas fritas congeladas", "azeitonas", "pickles", "chucrute", "compota", "doce de fruta", "marmelada", "manteiga de amendoim", "amendoins"]
+   }, "theme": "food"},
+  {"code": "2009", "names": {"fr": "Jus de fruits", "en": "Fruit juice", "de": "Fruchtsaft"},
+   "synonyms": {
+    "fr": ["jus", "jus de fruits", "jus d'orange", "jus de pomme", "jus de raisin", "jus de légumes", "nectar", "smoothie"],
+    "en": ["juice", "fruit juice", "orange juice", "apple juice", "grape juice", "smoothie"],
+    "de": ["saft", "säfte", "saefte", "fruchtsaft", "orangensaft", "apfelsaft", "traubensaft", "multivitaminsaft", "nektar"],
+    "lb": ["jus"],
+    "pt": ["sumo", "sumos", "sumo de laranja", "sumo de maçã", "suco", "néctar"]
+   }, "litres": true, "theme": "drinks"},
+  {"code": "21", "names": {"fr": "Sauces, soupes et autres", "en": "Sauces, soups and more", "de": "Soßen, Suppen und mehr"},
+   "synonyms": {
+    "fr": ["sauce", "sauces", "ketchup", "mayonnaise", "mayo", "moutarde", "sauce tomate", "sauce soja", "vinaigrette", "pesto", "condiments", "soupe", "soupes", "potage", "bouillon", "cube de bouillon", "velouté", "levure", "café soluble", "café instantané", "compléments alimentaires", "complément alimentaire", "protéines en poudre", "tofu", "sirop", "sirops", "édulcorant", "préparations alimentaires"],
+    "en": ["sauce", "sauces", "ketchup", "mayonnaise", "mustard", "soy sauce", "dressing", "pesto", "condiments", "soup", "soups", "stock cubes", "broth", "bouillon", "yeast", "instant coffee", "food supplements", "dietary supplements", "protein powder", "tofu", "syrup", "cordial", "sweetener"],
+    "de": ["soße", "sosse", "sauce", "saucen", "ketchup", "mayonnaise", "senf", "sojasoße", "sojasosse", "dressing", "pesto", "suppe", "suppen", "brühe", "bruehe", "brühwürfel", "bruehwuerfel", "bouillon", "hefe", "löskaffee", "loeskaffee", "instantkaffee", "nahrungsergänzungsmittel", "nahrungsergaenzungsmittel", "proteinpulver", "tofu", "sirup", "süßstoff", "suessstoff"],
+    "lb": ["moschter", "zopp"],
+    "pt": ["molho", "molhos", "ketchup", "maionese", "mostarda", "molho de tomate", "molho de soja", "sopa", "sopas", "caldo", "fermento", "café solúvel", "suplementos alimentares", "proteína em pó", "tofu", "xarope", "adoçante"]
+   }, "theme": "food"},
+  {"code": "2105", "names": {"fr": "Glaces", "en": "Ice cream", "de": "Speiseeis"},
+   "synonyms": {
+    "fr": ["glace", "glaces", "crème glacée", "sorbet", "sorbets", "esquimau", "cornet de glace", "bâtonnet glacé"],
+    "en": ["ice cream", "ice creams", "ice-cream", "sorbet", "ice lolly", "gelato"],
+    "de": ["eis", "speiseeis", "eiscreme", "sorbet", "eis am stiel"],
+    "lb": ["glace"],
+    "pt": ["gelado", "gelados", "sorvete", "sorvetes"]
+   }, "theme": "food"},
+  {"code": "2309", "names": {"fr": "Nourriture pour animaux", "en": "Pet food", "de": "Tierfutter"},
+   "synonyms": {
+    "fr": ["croquettes", "nourriture pour chien", "nourriture pour chat", "nourriture pour animaux", "aliments pour animaux", "pâtée", "pâtée pour chat", "aliment pour bétail"],
+    "en": ["pet food", "dog food", "cat food", "animal feed", "kibble", "cattle feed"],
+    "de": ["tierfutter", "hundefutter", "katzenfutter", "trockenfutter", "futter", "viehfutter"],
+    "pt": ["ração", "rações", "ração para cão", "ração para gato", "comida para animais"]
+   }, "theme": "food"},
+  {"code": "22", "names": {"fr": "Boissons", "en": "Drinks", "de": "Getränke"},
+   "synonyms": {
+    "fr": ["boisson", "boissons", "cidre", "cidres", "panaché", "hydromel", "saké", "vermouth", "vinaigre", "vinaigre balsamique", "alcool", "éthanol", "bioéthanol"],
+    "en": ["drinks", "drink", "beverages", "beverage", "cider", "perry", "shandy", "mead", "sake", "vermouth", "vinegar", "balsamic vinegar", "alcohol", "ethanol", "bioethanol"],
+    "de": ["getränke", "getraenke", "getränk", "getraenk", "apfelwein", "cidre", "viez", "radler", "sake", "wermut", "essig", "balsamico", "alkohol", "ethanol", "bioethanol"],
+    "lb": ["gedrénks"],
+    "pt": ["bebidas", "bebida", "sidra", "hidromel", "saqué", "vermute", "vinagre", "álcool", "etanol"]
+   }, "litres": true, "theme": "drinks"},
+  {"code": "2201", "names": {"fr": "Eau", "en": "Water", "de": "Wasser"},
+   "synonyms": {
+    "fr": ["eau", "eaux", "eau minérale", "eau gazeuse", "eau pétillante", "eau plate", "eau de source", "bouteille d'eau", "glaçons"],
+    "en": ["water", "mineral water", "sparkling water", "still water", "spring water", "bottled water", "ice cubes"],
+    "de": ["wasser", "mineralwasser", "sprudel", "sprudelwasser", "tafelwasser", "quellwasser", "stilles wasser", "eiswürfel", "eiswuerfel"],
+    "lb": ["waasser", "sprudel"],
+    "pt": ["água", "águas", "água mineral", "água com gás", "água sem gás", "água de nascente"]
+   }, "litres": true, "theme": "drinks"},
+  {"code": "2202", "names": {"fr": "Sodas", "en": "Soft drinks", "de": "Erfrischungsgetränke"},
+   "synonyms": {
+    "fr": ["soda", "sodas", "limonade", "cola", "coca", "boisson gazeuse", "boissons gazeuses", "boisson sucrée", "boisson énergisante", "boissons énergisantes", "thé glacé", "ice tea", "eau aromatisée", "bière sans alcool", "lait d'avoine", "lait de soja", "lait d'amande", "boisson végétale"],
+    "en": ["soda", "sodas", "soft drinks", "soft drink", "fizzy drinks", "lemonade", "cola", "energy drink", "energy drinks", "iced tea", "flavoured water", "alcohol-free beer", "non-alcoholic beer", "oat milk", "soy milk", "almond milk", "plant milk"],
+    "de": ["limonade", "limo", "cola", "softdrinks", "erfrischungsgetränke", "erfrischungsgetraenke", "brause", "energydrink", "energy drink", "eistee", "alkoholfreies bier", "hafermilch", "sojamilch", "mandelmilch", "pflanzendrink"],
+    "pt": ["refrigerante", "refrigerantes", "gasosa", "bebida energética", "ice tea", "cerveja sem álcool", "bebida vegetal", "leite de aveia", "leite de soja", "leite de amêndoa"]
+   }, "litres": true, "theme": "drinks"},
+  {"code": "2203", "names": {"fr": "Bière", "en": "Beer", "de": "Bier"},
+   "synonyms": {
+    "fr": ["bière", "bières", "pils", "bière blonde", "bière brune", "bière blanche", "bière pression", "bière artisanale"],
+    "en": ["beer", "beers", "lager", "ale", "pilsner", "craft beer", "stout"],
+    "de": ["bier", "biere", "pils", "weizenbier", "weißbier", "weissbier", "helles", "craft beer"],
+    "lb": ["béier"],
+    "pt": ["cerveja", "cervejas", "imperial", "cerveja artesanal"]
+   }, "litres": true, "theme": "drinks"},
+  {"code": "2204", "names": {"fr": "Vin", "en": "Wine", "de": "Wein"},
+   "synonyms": {
+    "fr": ["vin", "vins", "vin rouge", "vin blanc", "vin rosé", "rosé", "crémant", "champagne", "mousseux", "vin mousseux", "prosecco", "cava", "porto", "riesling", "auxerrois", "pinot gris", "vin de moselle"],
+    "en": ["wine", "wines", "red wine", "white wine", "rosé", "rose wine", "sparkling wine", "champagne", "prosecco", "cava", "port wine", "crémant"],
+    "de": ["wein", "weine", "rotwein", "weißwein", "weisswein", "roséwein", "sekt", "schaumwein", "champagner", "prosecco", "crémant", "riesling", "portwein", "moselwein"],
+    "lb": ["wäin", "crémant"],
+    "pt": ["vinho", "vinhos", "vinho tinto", "vinho branco", "vinho rosé", "vinho verde", "espumante", "vinho do porto", "porto", "champanhe"]
+   }, "litres": true, "theme": "drinks"},
+  {"code": "2208", "names": {"fr": "Spiritueux", "en": "Spirits", "de": "Spirituosen"},
+   "synonyms": {
+    "fr": ["alcool fort", "alcools forts", "spiritueux", "whisky", "whiskey", "vodka", "gin", "rhum", "cognac", "armagnac", "calvados", "liqueur", "liqueurs", "eau-de-vie", "schnaps", "pastis", "tequila", "digestif"],
+    "en": ["spirits", "liquor", "hard liquor", "whisky", "whiskey", "vodka", "gin", "rum", "brandy", "cognac", "liqueur", "liqueurs", "tequila", "schnapps"],
+    "de": ["spirituosen", "schnaps", "likör", "likoer", "liköre", "likoere", "whisky", "wodka", "gin", "rum", "weinbrand", "cognac", "obstler", "obstbrand", "tequila"],
+    "lb": ["drëpp"],
+    "pt": ["aguardente", "bagaço", "licor", "licores", "whisky", "vodka", "gin", "rum", "ginja", "medronho", "brandy"]
+   }, "litres": true, "theme": "drinks"},
+  {"code": "24", "names": {"fr": "Tabac", "en": "Tobacco", "de": "Tabak"},
+   "synonyms": {
+    "fr": ["tabac", "tabacs", "produits du tabac", "tabac brut", "feuilles de tabac"],
+    "en": ["tobacco", "tobacco products", "raw tobacco", "tobacco leaves"],
+    "de": ["tabak", "tabakwaren", "rohtabak", "tabakblätter", "tabakblaetter"],
+    "lb": ["tubak"],
+    "pt": ["tabaco", "tabaco em folha", "folhas de tabaco"]
+   }, "theme": "leisure"},
+  {"code": "2402", "names": {"fr": "Cigarettes et cigares", "en": "Cigarettes and cigars", "de": "Zigaretten und Zigarren"},
+   "synonyms": {
+    "fr": ["cigarette", "cigarettes", "cigare", "cigares", "cigarillo", "cigarillos", "clope", "clopes", "paquet de cigarettes", "cartouche de cigarettes"],
+    "en": ["cigarette", "cigarettes", "cigar", "cigars", "cigarillo", "cigarillos", "fags", "pack of cigarettes"],
+    "de": ["zigarette", "zigaretten", "zigarre", "zigarren", "zigarillos", "kippen", "zigarettenschachtel"],
+    "lb": ["zigaretten", "zigarett"],
+    "pt": ["cigarro", "cigarros", "charuto", "charutos", "maço de tabaco"]
+   }, "theme": "leisure"},
+  {"code": "2403", "names": {"fr": "Tabac à rouler", "en": "Rolling tobacco", "de": "Drehtabak"},
+   "synonyms": {
+    "fr": ["tabac à rouler", "tabac à pipe", "tabac à chicha", "chicha", "narguilé", "tabac à chiquer", "tabac à priser", "snus"],
+    "en": ["rolling tobacco", "pipe tobacco", "shisha", "hookah tobacco", "chewing tobacco", "snuff", "snus"],
+    "de": ["drehtabak", "feinschnitt", "pfeifentabak", "shisha-tabak", "wasserpfeifentabak", "kautabak", "schnupftabak", "snus"],
+    "pt": ["tabaco de enrolar", "tabaco para cachimbo", "shisha"]
+   }, "theme": "leisure"},
+  {"code": "2404", "names": {"fr": "E-liquides et nicotine", "en": "E-liquids and nicotine", "de": "Liquids und Nikotin"},
+   "synonyms": {
+    "fr": ["e-liquide", "e-liquides", "liquide de vapotage", "vape", "vapotage", "tabac chauffé", "iqos", "heets", "sachets de nicotine", "nicotine"],
+    "en": ["e-liquid", "e-liquids", "vape juice", "vape", "vaping", "heated tobacco", "nicotine pouches", "nicotine"],
+    "de": ["liquid", "liquids", "e-liquid", "dampfen", "tabakerhitzer", "tabaksticks", "nikotinbeutel", "nikotin"],
+    "pt": ["líquido para vape", "tabaco aquecido", "saquetas de nicotina", "nicotina"]
+   }, "theme": "leisure"},
+  {"code": "27", "names": {"fr": "Carburants et énergie", "en": "Fuels and energy", "de": "Brennstoffe und Energie"},
+   "synonyms": {
+    "fr": ["énergie", "énergies fossiles", "combustibles", "combustible", "pétrole", "pétrole brut", "hydrocarbures", "produits pétroliers", "charbon", "houille", "anthracite", "briquettes", "bitume", "asphalte"],
+    "en": ["energy", "fuels", "fossil fuels", "petroleum", "crude oil", "hydrocarbons", "coal", "anthracite", "briquettes", "bitumen", "asphalt"],
+    "de": ["energie", "brennstoffe", "fossile brennstoffe", "erdöl", "erdoel", "rohöl", "rohoel", "mineralöl", "mineraloel", "kohle", "steinkohle", "anthrazit", "briketts", "bitumen", "asphalt"],
+    "lb": ["kuel"],
+    "pt": ["energia", "combustíveis", "petróleo", "petróleo bruto", "hidrocarbonetos", "carvão", "antracite", "betume", "asfalto"]
+   }, "theme": "energy"},
+  {"code": "2710", "names": {"fr": "Essence et diesel", "en": "Petrol and diesel", "de": "Benzin und Diesel"},
+   "synonyms": {
+    "fr": ["essence", "diesel", "gazole", "gasoil", "carburant", "carburants", "fioul", "fioul domestique", "mazout", "kérosène", "sans plomb", "sp95", "sp98", "huile moteur", "lubrifiant", "lubrifiants", "plein d'essence"],
+    "en": ["petrol", "gasoline", "diesel", "fuel", "motor fuel", "heating oil", "fuel oil", "kerosene", "jet fuel", "unleaded", "motor oil", "engine oil", "lubricant", "lubricants"],
+    "de": ["benzin", "diesel", "kraftstoff", "sprit", "heizöl", "heizoel", "kerosin", "superbenzin", "bleifrei", "motoröl", "motoroel", "schmieröl", "schmieroel", "schmierstoff"],
+    "lb": ["bensin", "diesel", "mazout"],
+    "pt": ["gasolina", "gasóleo", "combustível", "gasóleo de aquecimento", "querosene", "óleo de motor", "lubrificante"]
+   }, "theme": "energy"},
+  {"code": "2711", "names": {"fr": "Gaz naturel et GPL", "en": "Natural gas and LPG", "de": "Erdgas und Flüssiggas"},
+   "synonyms": {
+    "fr": ["gaz", "gaz naturel", "gpl", "butane", "propane", "gnl", "gaz liquéfié", "bonbonne de gaz", "bouteille de gaz", "méthane"],
+    "en": ["gas", "natural gas", "lpg", "lng", "propane", "butane", "gas bottle", "gas cylinder", "methane"],
+    "de": ["gas", "erdgas", "flüssiggas", "fluessiggas", "propan", "butan", "lng", "autogas", "gasflasche", "methan"],
+    "lb": ["gas"],
+    "pt": ["gás", "gás natural", "gás butano", "gás propano", "botija de gás", "gpl"]
+   }, "theme": "energy"},
+  {"code": "2716", "names": {"fr": "Électricité", "en": "Electricity", "de": "Strom"},
+   "synonyms": {
+    "fr": ["électricité", "courant électrique", "énergie électrique"],
+    "en": ["electricity", "electric power", "electrical energy"],
+    "de": ["strom", "elektrizität", "elektrizitaet", "elektrische energie"],
+    "lb": ["stroum"],
+    "pt": ["eletricidade", "energia elétrica"]
+   }, "theme": "energy"},
+  {"code": "4401", "names": {"fr": "Bois de chauffage et pellets", "en": "Firewood and pellets", "de": "Brennholz und Pellets"},
+   "synonyms": {
+    "fr": ["bois de chauffage", "bûche", "bûches", "pellets", "granulés de bois", "granulés", "plaquettes de bois", "copeaux de bois", "sciure"],
+    "en": ["firewood", "logs", "wood pellets", "pellets", "wood chips", "sawdust"],
+    "de": ["brennholz", "kaminholz", "holzpellets", "pellets", "hackschnitzel", "sägespäne", "saegespaene"],
+    "pt": ["lenha", "pellets", "péletes", "estilha", "serradura"]
+   }, "theme": "energy"},
+  {"code": "8541", "names": {"fr": "Panneaux solaires", "en": "Solar panels", "de": "Solarmodule"},
+   "synonyms": {
+    "fr": ["panneau solaire", "panneaux solaires", "photovoltaïque", "panneaux photovoltaïques", "module solaire", "modules solaires", "cellules solaires", "diode", "diodes", "transistor", "transistors"],
+    "en": ["solar panel", "solar panels", "photovoltaic", "pv panels", "solar modules", "solar cells", "diode", "diodes", "transistor", "transistors"],
+    "de": ["solarmodul", "solarmodule", "solarpanel", "solarpanele", "photovoltaik", "solarzellen", "diode", "dioden", "transistor", "transistoren"],
+    "pt": ["painel solar", "painéis solares", "fotovoltaico", "painéis fotovoltaicos", "células solares"]
+   }, "theme": "energy"},
+  {"code": "8502", "names": {"fr": "Générateurs et éoliennes", "en": "Generators and wind turbines", "de": "Generatoren und Windräder"},
+   "synonyms": {
+    "fr": ["groupe électrogène", "groupes électrogènes", "générateur", "générateurs", "génératrice", "éolienne", "éoliennes"],
+    "en": ["generator", "generators", "generating set", "wind turbine", "wind turbines"],
+    "de": ["generator", "stromaggregat", "notstromaggregat", "windrad", "windräder", "windraeder", "windkraftanlage", "windkraftanlagen"],
+    "pt": ["gerador", "geradores", "aerogerador", "aerogeradores", "turbina eólica", "turbinas eólicas"]
+   }, "theme": "energy"},
+  {"code": "30", "names": {"fr": "Produits pharmaceutiques", "en": "Pharmaceuticals", "de": "Pharmazeutische Produkte"},
+   "synonyms": {
+    "fr": ["pharmacie", "pharmaceutique", "produits pharmaceutiques", "pharma", "pansement", "pansements", "compresse", "compresses", "bandage", "bandages", "sparadrap", "trousse de secours"],
+    "en": ["pharmaceuticals", "pharmaceutical products", "pharma", "pharmacy", "bandage", "bandages", "plasters", "sticking plaster", "gauze", "first aid kit"],
+    "de": ["pharmazeutika", "pharmazeutische erzeugnisse", "pharma", "pflaster", "verband", "verbandsmaterial", "mullbinde", "kompressen", "verbandskasten"],
+    "pt": ["produtos farmacêuticos", "farmacêuticos", "farmácia", "pensos", "penso", "compressas", "ligaduras", "gaze", "estojo de primeiros socorros"]
+   }, "theme": "health"},
+  {"code": "3004", "names": {"fr": "Médicaments", "en": "Medicines", "de": "Arzneimittel"},
+   "synonyms": {
+    "fr": ["médicament", "médicaments", "comprimé", "comprimés", "pilule", "pilules", "gélules", "sirop contre la toux", "antibiotique", "antibiotiques", "antidouleur", "paracétamol", "ibuprofène", "aspirine", "insuline", "vitamines"],
+    "en": ["medicine", "medicines", "medication", "medications", "pills", "capsules", "cough syrup", "antibiotics", "painkillers", "paracetamol", "ibuprofen", "aspirin", "insulin", "vitamins"],
+    "de": ["medikament", "medikamente", "arzneimittel", "arznei", "tabletten", "pillen", "kapseln", "hustensaft", "antibiotika", "schmerzmittel", "paracetamol", "ibuprofen", "aspirin", "insulin", "vitamine"],
+    "lb": ["medikamenter", "pëllen"],
+    "pt": ["medicamento", "medicamentos", "remédio", "remédios", "comprimidos", "antibióticos", "analgésicos", "paracetamol", "aspirina", "insulina", "vitaminas"]
+   }, "theme": "health"},
+  {"code": "3002", "names": {"fr": "Vaccins et sang", "en": "Vaccines and blood", "de": "Impfstoffe und Blut"},
+   "synonyms": {
+    "fr": ["vaccin", "vaccins", "vaccination", "vaccin covid", "sang", "plasma", "anticorps", "immunoglobulines"],
+    "en": ["vaccine", "vaccines", "vaccination", "covid vaccine", "blood", "plasma", "antibodies", "immunoglobulin", "antiserum"],
+    "de": ["impfstoff", "impfstoffe", "impfung", "corona-impfstoff", "blut", "blutplasma", "antikörper", "antikoerper", "immunglobuline"],
+    "pt": ["vacina", "vacinas", "vacinação", "sangue", "plasma", "anticorpos"]
+   }, "theme": "health"},
+  {"code": "3822", "names": {"fr": "Tests de diagnostic", "en": "Diagnostic tests", "de": "Diagnosetests"},
+   "synonyms": {
+    "fr": ["test", "tests", "autotest", "autotests", "test covid", "test antigénique", "test de grossesse", "test de diagnostic", "réactif", "réactifs"],
+    "en": ["test kit", "rapid test", "covid test", "self-test", "pregnancy test", "diagnostic test", "reagent", "reagents"],
+    "de": ["schnelltest", "selbsttest", "coronatest", "schwangerschaftstest", "diagnosetest", "reagenz", "reagenzien"],
+    "pt": ["teste", "testes", "autoteste", "teste covid", "teste de gravidez", "reagente", "reagentes"]
+   }, "theme": "health"},
+  {"code": "9018", "names": {"fr": "Matériel médical", "en": "Medical instruments", "de": "Medizinische Instrumente"},
+   "synonyms": {
+    "fr": ["matériel médical", "instruments médicaux", "instruments chirurgicaux", "seringue", "seringues", "stéthoscope", "cathéter", "scalpel", "tensiomètre", "endoscope"],
+    "en": ["medical devices", "medical equipment", "medical instruments", "surgical instruments", "syringe", "syringes", "stethoscope", "catheter", "scalpel", "blood pressure monitor"],
+    "de": ["medizinprodukte", "medizinische geräte", "medizinische geraete", "medizintechnik", "chirurgische instrumente", "spritze", "spritzen", "stethoskop", "katheter", "skalpell", "blutdruckmessgerät", "blutdruckmessgeraet"],
+    "pt": ["material médico", "equipamento médico", "instrumentos cirúrgicos", "seringa", "seringas", "estetoscópio", "cateter", "bisturi"]
+   }, "theme": "health"},
+  {"code": "9021", "names": {"fr": "Prothèses et implants", "en": "Prostheses and implants", "de": "Prothesen und Implantate"},
+   "synonyms": {
+    "fr": ["prothèse", "prothèses", "implant", "implants", "implant dentaire", "appareil auditif", "appareils auditifs", "pacemaker", "stimulateur cardiaque", "béquilles", "attelle", "semelles orthopédiques"],
+    "en": ["prosthesis", "prostheses", "implant", "implants", "dental implant", "hearing aid", "hearing aids", "pacemaker", "crutches", "splint", "orthopaedic insoles"],
+    "de": ["prothese", "prothesen", "implantat", "implantate", "zahnimplantat", "hörgerät", "hoergeraet", "hörgeräte", "hoergeraete", "herzschrittmacher", "krücken", "kruecken", "orthopädische einlagen", "orthopaedische einlagen"],
+    "pt": ["prótese", "próteses", "implante", "implantes", "aparelho auditivo", "pacemaker", "muletas", "palmilhas ortopédicas"]
+   }, "theme": "health"},
+  {"code": "9619", "names": {"fr": "Couches et tampons", "en": "Nappies and tampons", "de": "Windeln und Tampons"},
+   "synonyms": {
+    "fr": ["couche", "couches", "couches bébé", "couches-culottes", "serviette hygiénique", "serviettes hygiéniques", "tampon", "tampons", "protections hygiéniques", "protège-slip"],
+    "en": ["nappy", "nappies", "diaper", "diapers", "sanitary pads", "sanitary towels", "tampons", "panty liners"],
+    "de": ["windel", "windeln", "damenbinden", "binden", "tampons", "slipeinlagen"],
+    "pt": ["fralda", "fraldas", "pensos higiénicos", "tampões"]
+   }, "theme": "health"},
+  {"code": "9004", "names": {"fr": "Lunettes", "en": "Glasses", "de": "Brillen"},
+   "synonyms": {
+    "fr": ["lunettes", "lunettes de soleil", "lunettes de vue", "lunettes de ski", "lunettes de natation", "lunettes de protection"],
+    "en": ["glasses", "spectacles", "eyeglasses", "sunglasses", "goggles", "ski goggles", "safety glasses"],
+    "de": ["brille", "brillen", "sonnenbrille", "sonnenbrillen", "skibrille", "schutzbrille", "taucherbrille"],
+    "lb": ["brëll"],
+    "pt": ["óculos", "óculos de sol", "óculos graduados"]
+   }, "theme": "health"},
+  {"code": "9001", "names": {"fr": "Lentilles de contact", "en": "Contact lenses", "de": "Kontaktlinsen"},
+   "synonyms": {
+    "fr": ["lentilles de contact", "lentille de contact", "lentilles souples", "fibre optique", "fibres optiques"],
+    "en": ["contact lenses", "contact lens", "optical fibre", "optical fiber", "fibre optics"],
+    "de": ["kontaktlinsen", "kontaktlinse", "glasfaser", "lichtwellenleiter"],
+    "pt": ["lentes de contacto", "lentes de contato", "fibra ótica"]
+   }, "theme": "health"},
+  {"code": "33", "names": {"fr": "Parfums et cosmétiques", "en": "Perfumes and cosmetics", "de": "Parfüm und Kosmetik"},
+   "synonyms": {
+    "fr": ["cosmétiques", "cosmétique", "produits de beauté", "dentifrice", "fil dentaire", "bain de bouche", "déodorant", "déodorants", "déo", "mousse à raser", "après-rasage", "bain moussant", "désodorisant", "parfum d'ambiance", "encens", "huiles essentielles"],
+    "en": ["cosmetics", "beauty products", "toiletries", "toothpaste", "dental floss", "mouthwash", "deodorant", "deodorants", "antiperspirant", "shaving foam", "shaving cream", "aftershave", "bubble bath", "air freshener", "incense", "essential oils"],
+    "de": ["kosmetik", "kosmetikartikel", "körperpflege", "koerperpflege", "zahnpasta", "zahncreme", "zahnseide", "mundwasser", "deo", "deodorant", "rasierschaum", "aftershave", "schaumbad", "raumduft", "lufterfrischer", "räucherstäbchen", "raeucherstaebchen", "ätherische öle", "aetherische oele"],
+    "lb": ["zännpasta"],
+    "pt": ["cosméticos", "produtos de beleza", "pasta de dentes", "dentífrico", "fio dental", "elixir bucal", "desodorizante", "espuma de barbear", "ambientador", "incenso", "óleos essenciais"]
+   }, "theme": "health"},
+  {"code": "3303", "names": {"fr": "Parfum", "en": "Perfume", "de": "Parfüm"},
+   "synonyms": {
+    "fr": ["parfum", "parfums", "eau de toilette", "eau de parfum", "eau de cologne"],
+    "en": ["perfume", "perfumes", "fragrance", "fragrances", "eau de toilette", "cologne"],
+    "de": ["parfüm", "parfuem", "parfum", "parfums", "duft", "eau de toilette", "kölnisch wasser", "koelnisch wasser"],
+    "lb": ["parfum"],
+    "pt": ["perfume", "perfumes", "água de colónia"]
+   }, "theme": "health"},
+  {"code": "3304", "names": {"fr": "Maquillage et soins", "en": "Make-up and skincare", "de": "Make-up und Hautpflege"},
+   "synonyms": {
+    "fr": ["maquillage", "crème hydratante", "crème de jour", "crème pour le visage", "crème solaire", "rouge à lèvres", "mascara", "fond de teint", "vernis à ongles", "fard à paupières", "eye-liner", "soins du visage", "lotion"],
+    "en": ["make-up", "makeup", "skincare", "skin care", "face cream", "moisturiser", "moisturizer", "sunscreen", "sun cream", "lipstick", "mascara", "foundation", "nail polish", "eyeshadow", "eyeliner", "lotion"],
+    "de": ["make-up", "schminke", "hautpflege", "gesichtscreme", "feuchtigkeitscreme", "sonnencreme", "sonnenschutz", "lippenstift", "wimperntusche", "mascara", "nagellack", "lidschatten", "creme"],
+    "pt": ["maquilhagem", "maquiagem", "creme", "creme hidratante", "protetor solar", "batom", "rímel", "base de maquilhagem", "verniz de unhas", "sombra"]
+   }, "theme": "health"},
+  {"code": "3305", "names": {"fr": "Produits capillaires", "en": "Hair care", "de": "Haarpflege"},
+   "synonyms": {
+    "fr": ["shampoing", "shampooing", "shampoings", "après-shampoing", "laque pour cheveux", "gel pour cheveux", "coloration", "teinture pour cheveux", "masque capillaire", "produits capillaires"],
+    "en": ["shampoo", "shampoos", "conditioner", "hairspray", "hair spray", "hair gel", "hair dye", "hair colour", "hair care"],
+    "de": ["shampoo", "shampoos", "haarspülung", "haarspuelung", "spülung", "spuelung", "conditioner", "haarspray", "haargel", "haarfarbe", "haarpflege"],
+    "lb": ["shampoing"],
+    "pt": ["champô", "shampoo", "condicionador", "amaciador", "laca", "gel de cabelo", "tinta para o cabelo"]
+   }, "theme": "health"},
+  {"code": "3401", "names": {"fr": "Savon", "en": "Soap", "de": "Seife"},
+   "synonyms": {
+    "fr": ["savon", "savons", "savonnette", "savon liquide", "gel douche", "gels douche"],
+    "en": ["soap", "soaps", "bar of soap", "liquid soap", "hand soap", "shower gel", "body wash"],
+    "de": ["seife", "seifen", "flüssigseife", "fluessigseife", "handseife", "duschgel"],
+    "lb": ["seef"],
+    "pt": ["sabão", "sabonete", "sabonetes", "sabonete líquido", "gel de banho", "gel de duche"]
+   }, "theme": "health"},
+  {"code": "3402", "names": {"fr": "Lessive et détergents", "en": "Detergents", "de": "Waschmittel"},
+   "synonyms": {
+    "fr": ["lessive", "lessives", "poudre à laver", "détergent", "détergents", "liquide vaisselle", "produit vaisselle", "tablettes lave-vaisselle", "produit ménager", "produits ménagers", "nettoyant"],
+    "en": ["detergent", "detergents", "laundry detergent", "washing powder", "washing-up liquid", "dish soap", "dishwasher tablets", "cleaning products", "cleaner"],
+    "de": ["waschmittel", "waschpulver", "spülmittel", "spuelmittel", "geschirrspülmittel", "geschirrspuelmittel", "geschirrspültabs", "geschirrspueltabs", "reinigungsmittel", "putzmittel"],
+    "lb": ["wäschpolver"],
+    "pt": ["detergente", "detergentes", "detergente da roupa", "detergente da loiça", "produtos de limpeza"]
+   }, "theme": "home"},
+  {"code": "4818", "names": {"fr": "Papier toilette et mouchoirs", "en": "Toilet paper and tissues", "de": "Toilettenpapier und Taschentücher"},
+   "synonyms": {
+    "fr": ["papier toilette", "papier hygiénique", "papier wc", "pq", "mouchoirs", "mouchoir en papier", "mouchoirs en papier", "essuie-tout", "sopalin", "serviettes en papier", "serviette en papier", "kleenex"],
+    "en": ["toilet paper", "toilet roll", "toilet rolls", "loo roll", "tissues", "paper tissues", "kitchen roll", "paper towels", "paper napkins", "kleenex"],
+    "de": ["toilettenpapier", "klopapier", "taschentücher", "taschentuecher", "papiertaschentücher", "papiertaschentuecher", "küchenrolle", "kuechenrolle", "papierhandtücher", "papierhandtuecher", "servietten", "papierservietten"],
+    "pt": ["papel higiénico", "lenços de papel", "rolo de cozinha", "guardanapos de papel", "guardanapos"]
+   }, "theme": "home"},
+  {"code": "3808", "names": {"fr": "Pesticides et désinfectants", "en": "Pesticides and disinfectants", "de": "Pestizide und Desinfektionsmittel"},
+   "synonyms": {
+    "fr": ["pesticide", "pesticides", "insecticide", "insecticides", "herbicide", "herbicides", "désherbant", "glyphosate", "fongicide", "antimoustique", "raticide", "mort-aux-rats", "désinfectant", "désinfectants", "produits phytosanitaires"],
+    "en": ["pesticide", "pesticides", "insecticide", "insecticides", "herbicide", "weedkiller", "glyphosate", "fungicide", "rat poison", "disinfectant", "disinfectants"],
+    "de": ["pestizid", "pestizide", "pflanzenschutzmittel", "insektizid", "insektenspray", "herbizid", "unkrautvernichter", "glyphosat", "fungizid", "rattengift", "desinfektionsmittel"],
+    "pt": ["pesticida", "pesticidas", "inseticida", "herbicida", "glifosato", "fungicida", "raticida", "desinfetante", "desinfetantes"]
+   }, "theme": "home"},
+  {"code": "3406", "names": {"fr": "Bougies", "en": "Candles", "de": "Kerzen"},
+   "synonyms": {
+    "fr": ["bougie", "bougies", "chandelle", "chandelles", "cierge", "bougie parfumée", "bougies chauffe-plat"],
+    "en": ["candle", "candles", "tealights", "tea lights", "scented candle"],
+    "de": ["kerze", "kerzen", "teelichter", "duftkerze"],
+    "lb": ["käerzen"],
+    "pt": ["vela", "velas", "vela perfumada"]
+   }, "theme": "home"},
+  {"code": "8418", "names": {"fr": "Frigos et pompes à chaleur", "en": "Fridges and heat pumps", "de": "Kühlschränke und Wärmepumpen"},
+   "synonyms": {
+    "fr": ["frigo", "frigos", "réfrigérateur", "réfrigérateurs", "frigidaire", "congélateur", "congélateurs", "cave à vin", "pompe à chaleur", "pompes à chaleur"],
+    "en": ["fridge", "fridges", "refrigerator", "refrigerators", "freezer", "freezers", "wine cooler", "heat pump", "heat pumps"],
+    "de": ["kühlschrank", "kuehlschrank", "kühlschränke", "kuehlschraenke", "gefrierschrank", "gefriertruhe", "kühltruhe", "kuehltruhe", "weinkühlschrank", "weinkuehlschrank", "wärmepumpe", "waermepumpe", "wärmepumpen", "waermepumpen"],
+    "lb": ["frigo", "frigoen"],
+    "pt": ["frigorífico", "frigoríficos", "geladeira", "congelador", "arca congeladora", "bomba de calor", "bombas de calor"]
+   }, "theme": "home"},
+  {"code": "8516", "names": {"fr": "Fours et bouilloires", "en": "Ovens and kettles", "de": "Herde und Wasserkocher"},
+   "synonyms": {
+    "fr": ["four", "fours", "four électrique", "micro-ondes", "four à micro-ondes", "bouilloire", "bouilloires", "sèche-cheveux", "grille-pain", "toaster", "cafetière", "cafetières", "machine à café", "machines à café", "fer à repasser", "chauffe-eau", "ballon d'eau chaude", "plaque de cuisson", "plaque à induction", "cuisinière électrique", "radiateur électrique", "chauffage électrique", "friteuse", "airfryer", "fer à lisser", "lisseur", "gaufrier", "appareil à raclette"],
+    "en": ["oven", "ovens", "electric oven", "microwave", "microwave oven", "kettle", "kettles", "hair dryer", "hairdryer", "toaster", "coffee machine", "coffee maker", "clothes iron", "steam iron", "water heater", "hob", "induction hob", "electric cooker", "electric heater", "deep fryer", "air fryer", "hair straightener"],
+    "de": ["backofen", "herd", "elektroherd", "mikrowelle", "wasserkocher", "föhn", "foehn", "fön", "foen", "haartrockner", "toaster", "kaffeemaschine", "kaffeevollautomat", "bügeleisen", "buegeleisen", "durchlauferhitzer", "warmwasserbereiter", "kochfeld", "induktionskochfeld", "heizlüfter", "heizluefter", "elektroheizung", "fritteuse", "heißluftfritteuse", "heissluftfritteuse", "glätteisen", "glaetteisen"],
+    "lb": ["kaffismaschinn"],
+    "pt": ["forno", "fornos", "micro-ondas", "chaleira", "secador de cabelo", "torradeira", "máquina de café", "cafeteira", "ferro de engomar", "esquentador", "placa de indução", "fogão elétrico", "aquecedor", "fritadeira", "airfryer"]
+   }, "theme": "home"},
+  {"code": "8508", "names": {"fr": "Aspirateurs", "en": "Vacuum cleaners", "de": "Staubsauger"},
+   "synonyms": {
+    "fr": ["aspirateur", "aspirateurs", "aspirateur robot", "aspirateur sans fil", "aspirateur balai"],
+    "en": ["vacuum cleaner", "vacuum cleaners", "vacuum", "hoover", "robot vacuum", "cordless vacuum"],
+    "de": ["staubsauger", "saugroboter", "akkusauger", "staubsaugerroboter"],
+    "lb": ["staubsauger"],
+    "pt": ["aspirador", "aspiradores", "aspirador robô"]
+   }, "theme": "home"},
+  {"code": "8450", "names": {"fr": "Machines à laver", "en": "Washing machines", "de": "Waschmaschinen"},
+   "synonyms": {
+    "fr": ["machine à laver", "machines à laver", "lave-linge", "lavante-séchante"],
+    "en": ["washing machine", "washing machines", "washer", "washer-dryer"],
+    "de": ["waschmaschine", "waschmaschinen", "waschtrockner"],
+    "lb": ["wäschmaschinn"],
+    "pt": ["máquina de lavar roupa", "máquina de lavar", "máquinas de lavar"]
+   }, "theme": "home"},
+  {"code": "9401", "names": {"fr": "Chaises et canapés", "en": "Seats and sofas", "de": "Sitzmöbel"},
+   "synonyms": {
+    "fr": ["chaise", "chaises", "fauteuil", "fauteuils", "canapé", "canapés", "sofa", "siège", "sièges", "tabouret", "tabourets", "chaise de bureau", "siège auto", "siège enfant", "transat"],
+    "en": ["chair", "chairs", "armchair", "armchairs", "sofa", "sofas", "couch", "settee", "seat", "seats", "stool", "stools", "office chair", "car seat", "child seat"],
+    "de": ["stuhl", "stühle", "stuehle", "sessel", "sofa", "couch", "sitz", "sitze", "hocker", "bürostuhl", "buerostuhl", "autositz", "kindersitz", "sitzmöbel", "sitzmoebel"],
+    "lb": ["stull", "fotell"],
+    "pt": ["cadeira", "cadeiras", "poltrona", "poltronas", "sofá", "sofás", "banco", "bancos", "cadeira de escritório", "cadeira auto"]
+   }, "theme": "home"},
+  {"code": "9403", "names": {"fr": "Meubles", "en": "Furniture", "de": "Möbel"},
+   "synonyms": {
+    "fr": ["meuble", "meubles", "mobilier", "table", "tables", "armoire", "armoires", "bureau", "lit", "lits", "étagère", "étagères", "commode", "buffet", "bibliothèque", "placard", "cuisine équipée", "meubles de cuisine", "meuble de salle de bain"],
+    "en": ["furniture", "table", "tables", "wardrobe", "wardrobes", "desk", "desks", "bed", "beds", "shelf", "shelves", "bookcase", "cupboard", "chest of drawers", "fitted kitchen", "kitchen units"],
+    "de": ["möbel", "moebel", "tisch", "tische", "schrank", "schränke", "schraenke", "kleiderschrank", "schreibtisch", "bett", "betten", "regal", "regale", "kommode", "einbauküche", "einbaukueche", "küchenmöbel", "kuechenmoebel"],
+    "lb": ["miwwelen", "dësch", "bett", "schaf"],
+    "pt": ["móveis", "mobiliário", "mesa", "mesas", "armário", "armários", "secretária", "cama", "camas", "estante", "estantes", "cómoda", "cozinha equipada"]
+   }, "theme": "home"},
+  {"code": "9404", "names": {"fr": "Matelas et literie", "en": "Mattresses and bedding", "de": "Matratzen und Bettwaren"},
+   "synonyms": {
+    "fr": ["matelas", "oreiller", "oreillers", "couette", "couettes", "duvet", "édredon", "sac de couchage", "coussin", "coussins", "sommier", "pouf"],
+    "en": ["mattress", "mattresses", "pillow", "pillows", "duvet", "quilt", "sleeping bag", "cushion", "cushions", "bed base"],
+    "de": ["matratze", "matratzen", "kissen", "kopfkissen", "bettdecke", "daunendecke", "federbett", "schlafsack", "lattenrost"],
+    "pt": ["colchão", "colchões", "almofada", "almofadas", "travesseiro", "edredão", "saco-cama", "saco de cama"]
+   }, "theme": "home"},
+  {"code": "9405", "names": {"fr": "Lampes et luminaires", "en": "Lamps and lighting", "de": "Lampen und Leuchten"},
+   "synonyms": {
+    "fr": ["lampe", "lampes", "luminaire", "luminaires", "lustre", "lustres", "éclairage", "lampadaire", "applique", "plafonnier", "guirlande lumineuse", "guirlandes lumineuses", "lampe de poche", "lampe torche", "enseigne lumineuse"],
+    "en": ["lamp", "lamps", "lighting", "light fittings", "chandelier", "floor lamp", "ceiling light", "fairy lights", "string lights", "torch", "flashlight"],
+    "de": ["lampe", "lampen", "leuchte", "leuchten", "kronleuchter", "stehlampe", "deckenlampe", "beleuchtung", "lichterkette", "taschenlampe"],
+    "lb": ["luucht", "luuchten"],
+    "pt": ["candeeiro", "candeeiros", "lustre", "iluminação", "luminária", "lanterna"]
+   }, "theme": "home"},
+  {"code": "63", "names": {"fr": "Linge de maison", "en": "Household linen", "de": "Heimtextilien"},
+   "synonyms": {
+    "fr": ["linge de maison", "linge de lit", "draps", "drap", "housse de couette", "taie d'oreiller", "serviette de bain", "serviettes de bain", "nappe", "nappes", "torchon", "torchons", "gant de toilette", "rideau", "rideaux", "voilage", "voilages", "tente", "tentes", "tente de camping", "bâche", "bâches", "store banne", "friperie", "vêtements d'occasion", "vêtements de seconde main", "fripes"],
+    "en": ["household linen", "bed linen", "sheets", "bed sheets", "duvet cover", "pillowcase", "towel", "towels", "bath towel", "tablecloth", "tea towel", "curtain", "curtains", "drapes", "tent", "tents", "tarpaulin", "tarp", "awning", "second-hand clothes", "used clothing"],
+    "de": ["heimtextilien", "bettwäsche", "bettwaesche", "bettlaken", "laken", "bettbezug", "kissenbezug", "handtuch", "handtücher", "handtuecher", "badetuch", "tischdecke", "geschirrtuch", "vorhang", "vorhänge", "vorhaenge", "gardine", "gardinen", "zelt", "zelte", "planen", "markise", "altkleider", "gebrauchtkleidung", "secondhand-kleidung"],
+    "pt": ["roupa de cama", "lençol", "lençóis", "fronha", "toalha", "toalhas", "toalha de mesa", "cortina", "cortinas", "cortinados", "tenda", "tendas", "lona", "toldo", "roupa usada", "roupa em segunda mão"]
+   }, "theme": "home"},
+  {"code": "69", "names": {"fr": "Céramique", "en": "Ceramics", "de": "Keramik"},
+   "synonyms": {
+    "fr": ["céramique", "céramiques", "carrelage", "carreau", "carreaux", "faïence", "vaisselle", "assiette", "assiettes", "tasse", "tasses", "bol", "bols", "porcelaine", "mug", "mugs", "théière", "lavabo", "lavabos", "toilettes", "wc", "cuvette", "évier", "baignoire", "bidet", "sanitaires", "brique", "briques", "tuile", "tuiles"],
+    "en": ["ceramics", "ceramic", "tiles", "tile", "floor tiles", "wall tiles", "crockery", "tableware", "plate", "plates", "cup", "cups", "bowl", "bowls", "porcelain", "mug", "mugs", "teapot", "washbasin", "sink", "toilet", "toilets", "wc", "bathtub", "bidet", "sanitary ware", "brick", "bricks", "roof tiles"],
+    "de": ["keramik", "fliesen", "fliese", "kacheln", "geschirr", "teller", "tasse", "tassen", "schüssel", "schuessel", "porzellan", "becher", "teekanne", "waschbecken", "toilette", "wc", "klo", "badewanne", "bidet", "sanitärkeramik", "sanitaerkeramik", "ziegel", "ziegelstein", "backstein", "dachziegel"],
+    "pt": ["cerâmica", "azulejo", "azulejos", "ladrilhos", "loiça", "louça", "prato", "pratos", "chávena", "chávenas", "caneca", "porcelana", "lavatório", "sanita", "banheira", "bidé", "louça sanitária", "tijolo", "tijolos", "telha", "telhas"]
+   }, "theme": "home"},
+  {"code": "62", "names": {"fr": "Vêtements tissés", "en": "Woven clothing", "de": "Gewebte Kleidung"},
+   "synonyms": {
+    "fr": ["vêtements", "vêtement", "habits", "fringues", "mode", "prêt-à-porter", "vêtements tissés", "chemise", "chemises", "chemisette", "chemisier", "chemisiers", "blouse", "blouses", "tunique", "soutien-gorge", "soutiens-gorge", "lingerie", "cravate", "cravates", "foulard", "écharpe"],
+    "en": ["clothing", "clothes", "apparel", "garments", "fashion", "shirt", "shirts", "blouse", "blouses", "tunic", "bra", "bras", "lingerie", "tie", "ties", "scarf", "scarves"],
+    "de": ["kleidung", "bekleidung", "klamotten", "mode", "hemd", "hemden", "oberhemd", "bluse", "blusen", "tunika", "bh", "büstenhalter", "buestenhalter", "dessous", "krawatte", "schal", "halstuch"],
+    "lb": ["kleeder", "hiem"],
+    "pt": ["roupa", "roupas", "vestuário", "moda", "camisa", "camisas", "blusa", "blusas", "túnica", "soutien", "sutiã", "lingerie", "gravata", "cachecol", "lenço"]
+   }, "theme": "clothing"},
+  {"code": "61", "names": {"fr": "Vêtements en maille", "en": "Knitted clothing", "de": "Strickkleidung"},
+   "synonyms": {
+    "fr": ["maille", "tricot", "tricots", "bonneterie", "vêtements en maille", "chaussette", "chaussettes", "collant", "collants", "sous-vêtements", "culotte", "culottes", "slip", "slips", "caleçon", "caleçons", "boxer", "pyjama", "pyjamas", "chemise de nuit", "peignoir", "maillot de bain", "maillots de bain", "bikini", "survêtement", "survêtements", "jogging", "legging", "leggings", "vêtements bébé", "body bébé", "layette", "grenouillère", "polo", "polos"],
+    "en": ["knitwear", "knitted clothing", "socks", "sock", "tights", "stockings", "underwear", "knickers", "briefs", "panties", "boxer shorts", "pyjamas", "pajamas", "nightdress", "bathrobe", "dressing gown", "swimsuit", "swimsuits", "swimwear", "bikini", "tracksuit", "tracksuits", "leggings", "baby clothes", "babywear", "onesie", "polo shirt", "polo shirts"],
+    "de": ["strickwaren", "strickkleidung", "socken", "strümpfe", "struempfe", "strumpfhose", "strumpfhosen", "unterwäsche", "unterwaesche", "unterhose", "unterhosen", "slip", "boxershorts", "schlafanzug", "pyjama", "nachthemd", "bademantel", "badeanzug", "badehose", "bademode", "bikini", "trainingsanzug", "jogginganzug", "leggings", "babykleidung", "strampler", "poloshirt"],
+    "lb": ["strëmp"],
+    "pt": ["malhas", "malha", "meias", "meia", "collants", "meias-calças", "roupa interior", "cuecas", "pijama", "pijamas", "camisa de noite", "roupão", "fato de banho", "biquíni", "calções de banho", "fato de treino", "leggings", "roupa de bebé", "babygrow", "polo", "polos"]
+   }, "theme": "clothing"},
+  {"code": "6109", "names": {"fr": "T-shirts", "en": "T-shirts", "de": "T-Shirts"},
+   "synonyms": {
+    "fr": ["t-shirt", "t-shirts", "tee-shirt", "tee-shirts", "tshirt", "maillot de corps", "débardeur", "débardeurs"],
+    "en": ["t-shirt", "t-shirts", "tshirt", "tshirts", "tank top", "vest top", "undershirt"],
+    "de": ["t-shirt", "t-shirts", "tshirt", "unterhemd", "tanktop"],
+    "pt": ["t-shirt", "t-shirts", "camiseta", "camisetas", "camisola interior"]
+   }, "theme": "clothing"},
+  {"code": "6110", "names": {"fr": "Pulls et sweats", "en": "Jumpers and sweatshirts", "de": "Pullover und Sweatshirts"},
+   "synonyms": {
+    "fr": ["pull", "pulls", "pull-over", "pullover", "sweat", "sweats", "sweat-shirt", "sweatshirt", "sweat à capuche", "hoodie", "gilet", "gilets", "cardigan", "cardigans", "polaire"],
+    "en": ["jumper", "jumpers", "sweater", "sweaters", "pullover", "sweatshirt", "sweatshirts", "hoodie", "hoodies", "cardigan", "cardigans", "fleece"],
+    "de": ["pullover", "pulli", "pullis", "sweatshirt", "hoodie", "kapuzenpulli", "strickjacke", "weste", "cardigan", "fleecejacke"],
+    "lb": ["pullover"],
+    "pt": ["camisola", "camisolas", "sweatshirt", "hoodie", "casaco de malha", "cardigã", "colete"]
+   }, "theme": "clothing"},
+  {"code": "6203", "names": {"fr": "Vêtements pour homme", "en": "Men's clothing", "de": "Herrenbekleidung"},
+   "synonyms": {
+    "fr": ["pantalon", "pantalons", "jean", "jeans", "short", "shorts", "bermuda", "costume", "costumes", "veston", "blazer", "vêtements homme", "costume homme"],
+    "en": ["trousers", "pants", "jeans", "shorts", "suit", "suits", "blazer", "menswear", "men's clothing"],
+    "de": ["hose", "hosen", "jeans", "shorts", "kurze hose", "anzug", "anzüge", "anzuege", "sakko", "herrenbekleidung", "herrenmode"],
+    "pt": ["calças", "calça", "calças de ganga", "jeans", "calções", "fato", "fatos", "blazer", "roupa de homem"]
+   }, "theme": "clothing"},
+  {"code": "6204", "names": {"fr": "Vêtements pour femme", "en": "Women's clothing", "de": "Damenbekleidung"},
+   "synonyms": {
+    "fr": ["robe", "robes", "jupe", "jupes", "tailleur", "tailleurs", "robe de soirée", "vêtements femme", "pantalon femme"],
+    "en": ["dress", "dresses", "skirt", "skirts", "womenswear", "women's clothing", "ladies' clothing"],
+    "de": ["kleid", "kleider", "rock", "röcke", "roecke", "kostüm", "kostuem", "abendkleid", "damenbekleidung", "damenmode"],
+    "pt": ["vestido", "vestidos", "saia", "saias", "roupa de senhora", "roupa de mulher"]
+   }, "theme": "clothing"},
+  {"code": "6202", "names": {"fr": "Manteaux et vestes", "en": "Coats and jackets", "de": "Mäntel und Jacken"},
+   "synonyms": {
+    "fr": ["manteau", "manteaux", "veste", "vestes", "blouson", "blousons", "doudoune", "doudounes", "anorak", "parka", "imperméable", "ciré", "coupe-vent", "trench"],
+    "en": ["coat", "coats", "jacket", "jackets", "anorak", "parka", "raincoat", "puffer jacket", "windbreaker", "trench coat"],
+    "de": ["mantel", "mäntel", "maentel", "jacke", "jacken", "daunenjacke", "anorak", "parka", "regenjacke", "windjacke", "trenchcoat"],
+    "lb": ["mantel"],
+    "pt": ["casaco", "casacos", "blusão", "kispo", "parka", "impermeável", "gabardina", "corta-vento"]
+   }, "theme": "clothing"},
+  {"code": "64", "names": {"fr": "Chaussures", "en": "Shoes", "de": "Schuhe"},
+   "synonyms": {
+    "fr": ["chaussure", "chaussures", "souliers", "godasses", "bottes", "botte", "bottines", "escarpins", "mocassins", "sandales", "tongs", "claquettes", "bottes en caoutchouc", "chaussures de ski", "chaussures de sécurité", "crocs"],
+    "en": ["shoes", "shoe", "footwear", "boots", "ankle boots", "high heels", "loafers", "sandals", "flip-flops", "sliders", "rubber boots", "wellies", "ski boots", "safety shoes", "crocs"],
+    "de": ["schuhe", "schuh", "schuhwerk", "stiefel", "stiefeletten", "halbschuhe", "sandalen", "flip-flops", "badelatschen", "gummistiefel", "skischuhe", "sicherheitsschuhe", "crocs"],
+    "lb": ["schong"],
+    "pt": ["sapatos", "sapato", "calçado", "botas", "botins", "sapatos de salto", "mocassins", "sandálias", "chinelos", "havaianas", "galochas", "botas de ski"]
+   }, "theme": "clothing"},
+  {"code": "6404", "names": {"fr": "Baskets", "en": "Trainers", "de": "Turnschuhe"},
+   "synonyms": {
+    "fr": ["basket", "baskets", "sneakers", "chaussures de sport", "chaussures de running", "tennis", "chaussures en toile", "espadrilles", "chaussons", "pantoufles"],
+    "en": ["trainers", "sneakers", "sports shoes", "running shoes", "canvas shoes", "plimsolls", "espadrilles", "slippers"],
+    "de": ["turnschuhe", "sneaker", "sneakers", "sportschuhe", "laufschuhe", "stoffschuhe", "espadrilles", "hausschuhe", "pantoffeln"],
+    "pt": ["sapatilhas", "ténis", "tênis", "sapatos de desporto", "pantufas"]
+   }, "theme": "clothing"},
+  {"code": "65", "names": {"fr": "Chapeaux et casques", "en": "Hats and helmets", "de": "Hüte und Helme"},
+   "synonyms": {
+    "fr": ["chapeau", "chapeaux", "casquette", "casquettes", "bonnet", "bonnets", "béret", "bob", "casque de moto", "casque de vélo", "casque de chantier", "casque de ski"],
+    "en": ["hat", "hats", "cap", "caps", "baseball cap", "beanie", "beret", "helmet", "helmets", "motorcycle helmet", "bike helmet", "cycling helmet", "hard hat", "ski helmet"],
+    "de": ["hut", "hüte", "huete", "mütze", "muetze", "mützen", "muetzen", "kappe", "cap", "baseballkappe", "beanie", "baskenmütze", "baskenmuetze", "helm", "helme", "motorradhelm", "fahrradhelm", "bauhelm", "skihelm"],
+    "pt": ["chapéu", "chapéus", "boné", "bonés", "gorro", "gorros", "boina", "capacete", "capacetes"]
+   }, "theme": "clothing"},
+  {"code": "4202", "names": {"fr": "Sacs et valises", "en": "Bags and suitcases", "de": "Taschen und Koffer"},
+   "synonyms": {
+    "fr": ["sac", "sacs", "sac à main", "sacs à main", "valise", "valises", "sac à dos", "sacs à dos", "portefeuille", "porte-monnaie", "cartable", "trousse", "sacoche", "étui", "bagage", "bagages", "sac de sport", "pochette", "maroquinerie"],
+    "en": ["bag", "bags", "handbag", "handbags", "suitcase", "suitcases", "backpack", "backpacks", "rucksack", "wallet", "purse", "luggage", "schoolbag", "pencil case", "briefcase", "sports bag"],
+    "de": ["tasche", "taschen", "handtasche", "handtaschen", "koffer", "rucksack", "rucksäcke", "rucksaecke", "geldbörse", "geldboerse", "portemonnaie", "brieftasche", "schulranzen", "federmäppchen", "federmaeppchen", "gepäck", "gepaeck", "sporttasche", "lederwaren"],
+    "pt": ["mala", "malas", "mala de viagem", "mochila", "mochilas", "carteira", "bolsa", "bolsas", "estojo", "bagagem"]
+   }, "theme": "clothing"},
+  {"code": "91", "names": {"fr": "Montres et horloges", "en": "Watches and clocks", "de": "Uhren"},
+   "synonyms": {
+    "fr": ["montre", "montres", "montre-bracelet", "montre de luxe", "montres de luxe", "montre en or", "horloge", "horloges", "réveil", "réveils", "pendule", "pendules", "coucou", "horlogerie"],
+    "en": ["watch", "watches", "wristwatch", "wristwatches", "luxury watch", "luxury watches", "gold watch", "clock", "clocks", "alarm clock", "wall clock"],
+    "de": ["uhr", "uhren", "armbanduhr", "armbanduhren", "luxusuhr", "luxusuhren", "golduhr", "wanduhr", "wecker", "standuhr", "kuckucksuhr"],
+    "lb": ["auer"],
+    "pt": ["relógio", "relógios", "relógio de pulso", "relógio de luxo", "despertador", "relógio de parede"]
+   }, "theme": "clothing"},
+  {"code": "7113", "names": {"fr": "Bijoux", "en": "Jewellery", "de": "Schmuck"},
+   "synonyms": {
+    "fr": ["bijou", "bijoux", "bague", "bagues", "collier", "colliers", "bracelet", "bracelets", "boucles d'oreilles", "pendentif", "alliance", "alliances", "chaîne en or", "joaillerie", "bijouterie"],
+    "en": ["jewellery", "jewelry", "ring", "rings", "necklace", "necklaces", "bracelet", "bracelets", "earrings", "pendant", "wedding ring", "gold chain"],
+    "de": ["schmuck", "ring", "ringe", "halskette", "halsketten", "kette", "armband", "armbänder", "armbaender", "ohrringe", "kettenanhänger", "kettenanhaenger", "ehering", "eheringe", "juwelen"],
+    "lb": ["bijouen"],
+    "pt": ["joias", "jóias", "joia", "anel", "anéis", "colar", "colares", "pulseira", "pulseiras", "brincos", "aliança", "alianças", "fio de ouro"]
+   }, "theme": "clothing"},
+  {"code": "71", "names": {"fr": "Bijoux et métaux précieux", "en": "Jewellery and precious metals", "de": "Schmuck und Edelmetalle"},
+   "synonyms": {
+    "fr": ["métaux précieux", "métal précieux", "pierres précieuses", "argent métal", "lingot d'argent", "lingots d'argent", "argenterie", "platine", "palladium", "rhodium", "diamant", "diamants", "perles", "pièce de monnaie", "pièces de monnaie", "pièces d'or", "bijoux fantaisie", "bijou fantaisie"],
+    "en": ["precious metals", "precious stones", "gemstones", "silver", "silver bullion", "platinum", "palladium", "rhodium", "diamond", "diamonds", "pearls", "coin", "coins", "gold coins", "costume jewellery", "costume jewelry", "fashion jewellery"],
+    "de": ["edelmetalle", "edelsteine", "silber", "silberbarren", "platin", "palladium", "rhodium", "diamant", "diamanten", "perlen", "münze", "muenze", "münzen", "muenzen", "goldmünzen", "goldmuenzen", "modeschmuck"],
+    "pt": ["metais preciosos", "pedras preciosas", "prata", "platina", "paládio", "diamante", "diamantes", "pérolas", "moeda", "moedas", "bijuteria", "bijutaria"]
+   }, "theme": "materials"},
+  {"code": "7108", "names": {"fr": "Or", "en": "Gold", "de": "Gold"},
+   "synonyms": {
+    "fr": ["or", "or brut", "lingot", "lingots", "lingot d'or", "lingots d'or", "poudre d'or"],
+    "en": ["gold", "gold bar", "gold bars", "gold bullion", "bullion"],
+    "de": ["gold", "goldbarren", "barren", "feingold"],
+    "lb": ["gold"],
+    "pt": ["ouro", "barra de ouro", "barras de ouro", "lingotes de ouro"]
+   }, "theme": "materials"},
+  {"code": "85", "names": {"fr": "Électrique et électronique", "en": "Electrical and electronics", "de": "Elektro und Elektronik"},
+   "synonyms": {
+    "fr": ["électronique", "électroniques", "appareils électriques", "appareils électroniques", "matériel électrique", "électroménager", "radio", "radios", "autoradio", "poste de radio", "gps", "radar", "pile", "piles", "piles aa", "piles alcalines", "pile bouton", "ampoule", "ampoules", "ampoule led", "led", "néon", "halogène", "prise", "prises", "prise électrique", "multiprise", "interrupteur", "interrupteurs", "fusible", "fusibles", "disjoncteur", "moteur électrique", "moteurs électriques", "tableau électrique", "alarme", "alarmes", "détecteur de fumée", "sonnette", "rasoir électrique", "tondeuse à cheveux", "épilateur", "robot de cuisine", "mixeur", "blender", "centrifugeuse", "extracteur de jus", "cigarette électronique"],
+    "en": ["electronics", "electrical equipment", "electrical goods", "electronic devices", "home appliances", "radio", "radios", "car radio", "gps", "sat nav", "radar", "aa batteries", "aaa batteries", "alkaline batteries", "button cell", "light bulb", "light bulbs", "bulb", "bulbs", "led bulb", "led", "leds", "plug", "plugs", "socket", "sockets", "light switch", "power strip", "fuse", "fuses", "circuit breaker", "electric motor", "electric motors", "control panel", "burglar alarm", "fire alarm", "smoke detector", "doorbell", "electric shaver", "electric razor", "hair clippers", "beard trimmer", "epilator", "food processor", "blender", "mixer", "juicer", "e-cigarette", "electronic cigarette"],
+    "de": ["elektronik", "elektrogeräte", "elektrogeraete", "elektrotechnik", "haushaltsgeräte", "haushaltsgeraete", "radio", "radios", "autoradio", "navi", "navigationsgerät", "navigationsgeraet", "gps", "radar", "batterien", "einwegbatterien", "knopfzelle", "alkalibatterien", "glühbirne", "gluehbirne", "glühbirnen", "gluehbirnen", "leuchtmittel", "led", "led-lampe", "energiesparlampe", "stecker", "steckdose", "steckdosen", "steckdosenleiste", "mehrfachsteckdose", "schalter", "lichtschalter", "sicherung", "sicherungen", "elektromotor", "elektromotoren", "schaltschrank", "sicherungskasten", "alarmanlage", "rauchmelder", "türklingel", "tuerklingel", "klingel", "rasierer", "elektrorasierer", "haarschneider", "bartschneider", "epilierer", "küchenmaschine", "kuechenmaschine", "mixer", "standmixer", "pürierstab", "puerierstab", "entsafter", "e-zigarette"],
+    "pt": ["eletrónica", "eletrónicos", "aparelhos elétricos", "eletrodomésticos", "rádio", "rádios", "autorrádio", "gps", "radar", "pilha", "pilhas", "pilhas alcalinas", "lâmpada", "lâmpadas", "lâmpada led", "led", "tomada", "tomadas", "ficha", "interruptor", "interruptores", "fusível", "disjuntor", "motor elétrico", "motores elétricos", "quadro elétrico", "alarme", "alarmes", "detetor de fumo", "campainha", "máquina de barbear", "máquina de cortar cabelo", "depiladora", "robot de cozinha", "liquidificadora", "varinha mágica", "batedeira", "cigarro eletrónico"]
+   }, "theme": "tech"},
+  {"code": "8517", "names": {"fr": "Téléphones et smartphones", "en": "Phones and smartphones", "de": "Telefone und Smartphones"},
+   "synonyms": {
+    "fr": ["téléphone", "téléphones", "smartphone", "smartphones", "téléphone portable", "téléphones portables", "portable", "portables", "mobile", "gsm", "iphone", "montre connectée", "montres connectées", "routeur", "modem", "box internet", "antenne relais"],
+    "en": ["phone", "phones", "smartphone", "smartphones", "mobile phone", "mobile phones", "mobile", "cell phone", "cellphone", "iphone", "smartwatch", "smartwatches", "router", "modem"],
+    "de": ["handy", "handys", "smartphone", "smartphones", "telefon", "telefone", "mobiltelefon", "iphone", "smartwatch", "router", "modem"],
+    "lb": ["handy", "gsm", "telefon"],
+    "pt": ["telemóvel", "telemóveis", "telefone", "telefones", "smartphone", "smartphones", "celular", "iphone", "smartwatch", "router"]
+   }, "theme": "tech"},
+  {"code": "8471", "names": {"fr": "Ordinateurs", "en": "Computers", "de": "Computer"},
+   "synonyms": {
+    "fr": ["ordinateur", "ordinateurs", "ordi", "pc", "ordinateur portable", "ordinateurs portables", "laptop", "tablette", "tablettes", "ipad", "serveur", "serveurs", "clavier", "souris", "disque dur"],
+    "en": ["computer", "computers", "pc", "pcs", "laptop", "laptops", "notebook", "tablet", "ipad", "server", "servers", "keyboard", "mouse", "hard drive"],
+    "de": ["computer", "rechner", "pc", "laptop", "laptops", "notebook", "tablet", "tablets", "server", "tastatur", "maus", "festplatte"],
+    "lb": ["computer", "laptop"],
+    "pt": ["computador", "computadores", "pc", "portátil", "portáteis", "tablet", "ipad", "servidor", "servidores", "teclado", "rato", "disco rígido"]
+   }, "theme": "tech"},
+  {"code": "8528", "names": {"fr": "Télévisions et écrans", "en": "TVs and screens", "de": "Fernseher und Bildschirme"},
+   "synonyms": {
+    "fr": ["télévision", "télévisions", "télé", "téléviseur", "téléviseurs", "tv", "écran", "écrans", "écran plat", "moniteur", "moniteurs", "vidéoprojecteur", "smart tv"],
+    "en": ["tv", "tvs", "television", "televisions", "telly", "tv set", "screen", "screens", "monitor", "monitors", "projector", "flat screen", "smart tv"],
+    "de": ["fernseher", "fernsehgerät", "fernsehgeraet", "tv", "bildschirm", "bildschirme", "monitor", "monitore", "beamer", "flachbildschirm", "smart-tv"],
+    "lb": ["fernseh", "televisioun"],
+    "pt": ["televisão", "televisões", "televisor", "televisores", "tv", "ecrã", "ecrãs", "monitor", "monitores", "projetor"]
+   }, "theme": "tech"},
+  {"code": "8518", "names": {"fr": "Écouteurs et enceintes", "en": "Headphones and speakers", "de": "Kopfhörer und Lautsprecher"},
+   "synonyms": {
+    "fr": ["écouteurs", "casque audio", "casque", "enceinte", "enceintes", "enceinte bluetooth", "haut-parleur", "haut-parleurs", "micro", "microphone", "ampli", "amplificateur", "oreillettes"],
+    "en": ["headphones", "earphones", "earbuds", "headset", "speaker", "speakers", "bluetooth speaker", "loudspeaker", "microphone", "amplifier"],
+    "de": ["kopfhörer", "kopfhoerer", "ohrhörer", "ohrhoerer", "headset", "lautsprecher", "bluetooth-lautsprecher", "boxen", "mikrofon", "verstärker", "verstaerker"],
+    "pt": ["auscultadores", "fones de ouvido", "colunas", "coluna bluetooth", "altifalante", "microfone", "amplificador"]
+   }, "theme": "tech"},
+  {"code": "8523", "names": {"fr": "Clés USB et cartes mémoire", "en": "USB sticks and memory cards", "de": "USB-Sticks und Speicherkarten"},
+   "synonyms": {
+    "fr": ["clé usb", "clés usb", "carte mémoire", "cartes mémoire", "carte sd", "ssd", "disque ssd", "cd", "dvd", "dvds", "blu-ray", "vinyle", "vinyles", "disque vinyle", "carte à puce"],
+    "en": ["usb stick", "usb drive", "flash drive", "memory card", "sd card", "ssd", "cd", "cds", "dvd", "dvds", "blu-ray", "vinyl", "vinyl records", "smart card"],
+    "de": ["usb-stick", "speicherkarte", "sd-karte", "ssd", "cd", "cds", "dvd", "dvds", "blu-ray", "schallplatte", "schallplatten", "chipkarte"],
+    "pt": ["pen usb", "pen drive", "cartão de memória", "cartão sd", "ssd", "cd", "dvd", "disco de vinil"]
+   }, "theme": "tech"},
+  {"code": "8525", "names": {"fr": "Caméras et appareils photo", "en": "Cameras", "de": "Kameras"},
+   "synonyms": {
+    "fr": ["caméra", "caméras", "appareil photo", "appareils photo", "appareil photo numérique", "webcam", "caméscope", "caméra de surveillance", "dashcam"],
+    "en": ["camera", "cameras", "digital camera", "webcam", "camcorder", "security camera", "cctv camera", "dashcam"],
+    "de": ["kamera", "kameras", "fotoapparat", "digitalkamera", "webcam", "camcorder", "überwachungskamera", "ueberwachungskamera", "dashcam"],
+    "pt": ["câmara", "câmaras", "câmera", "máquina fotográfica", "câmara fotográfica", "webcam", "câmara de vigilância"]
+   }, "theme": "tech"},
+  {"code": "8542", "names": {"fr": "Puces électroniques", "en": "Microchips", "de": "Mikrochips"},
+   "synonyms": {
+    "fr": ["puce", "puces", "puce électronique", "puces électroniques", "processeur", "processeurs", "microprocesseur", "semi-conducteur", "semi-conducteurs", "circuit intégré", "mémoire ram"],
+    "en": ["chip", "microchip", "microchips", "computer chips", "semiconductor", "semiconductors", "processor", "processors", "cpu", "integrated circuit", "ram"],
+    "de": ["chip", "mikrochip", "mikrochips", "halbleiter", "prozessor", "prozessoren", "integrierte schaltung", "arbeitsspeicher"],
+    "pt": ["chip", "microchip", "semicondutor", "semicondutores", "processador", "processadores"]
+   }, "theme": "tech"},
+  {"code": "8507", "names": {"fr": "Batteries", "en": "Batteries", "de": "Akkus"},
+   "synonyms": {
+    "fr": ["batterie", "batteries", "batterie lithium", "batterie rechargeable", "batterie de voiture", "batterie de vélo", "accumulateur", "accumulateurs", "batterie externe", "powerbank"],
+    "en": ["battery", "batteries", "rechargeable battery", "lithium battery", "lithium-ion", "car battery", "power bank", "accumulator"],
+    "de": ["akku", "akkus", "batterie", "autobatterie", "lithium-akku", "lithium-ionen-akku", "powerbank", "akkumulator"],
+    "lb": ["batterie"],
+    "pt": ["bateria", "baterias", "bateria de lítio", "bateria de carro", "powerbank"]
+   }, "theme": "tech"},
+  {"code": "8504", "names": {"fr": "Transformateurs et chargeurs", "en": "Transformers and chargers", "de": "Transformatoren und Ladegeräte"},
+   "synonyms": {
+    "fr": ["transformateur", "transformateurs", "chargeur", "chargeurs", "chargeur de téléphone", "adaptateur secteur", "onduleur", "onduleurs", "borne de recharge", "bornes de recharge", "wallbox", "convertisseur"],
+    "en": ["transformer", "transformers", "charger", "chargers", "phone charger", "power adapter", "power supply", "inverter", "ev charger", "charging station", "wallbox"],
+    "de": ["transformator", "trafo", "ladegerät", "ladegeraet", "ladegeräte", "ladegeraete", "netzteil", "wechselrichter", "ladestation", "ladesäule", "ladesaeule", "wallbox"],
+    "pt": ["transformador", "transformadores", "carregador", "carregadores", "carregador de telemóvel", "inversor", "posto de carregamento"]
+   }, "theme": "tech"},
+  {"code": "8544", "names": {"fr": "Câbles électriques", "en": "Electric cables", "de": "Kabel"},
+   "synonyms": {
+    "fr": ["câble", "câbles", "cable", "câble électrique", "câbles électriques", "fil électrique", "fils électriques", "rallonge", "rallonges", "câble usb", "câble hdmi", "câble réseau"],
+    "en": ["cable", "cables", "electric cable", "electrical wire", "extension cord", "extension lead", "usb cable", "hdmi cable", "power cable"],
+    "de": ["kabel", "stromkabel", "verlängerungskabel", "verlaengerungskabel", "usb-kabel", "hdmi-kabel", "netzkabel"],
+    "lb": ["kabel"],
+    "pt": ["cabo", "cabos", "cabo elétrico", "fio elétrico", "extensão", "cabo usb"]
+   }, "theme": "tech"},
+  {"code": "8443", "names": {"fr": "Imprimantes", "en": "Printers", "de": "Drucker"},
+   "synonyms": {
+    "fr": ["imprimante", "imprimantes", "imprimante laser", "imprimante jet d'encre", "photocopieuse", "photocopieur", "cartouche d'encre", "cartouches d'encre", "toner", "presse d'imprimerie"],
+    "en": ["printer", "printers", "laser printer", "inkjet printer", "photocopier", "copier", "ink cartridge", "ink cartridges", "toner", "printing press"],
+    "de": ["drucker", "laserdrucker", "tintenstrahldrucker", "kopierer", "kopiergerät", "kopiergeraet", "druckerpatrone", "druckerpatronen", "toner", "druckmaschine"],
+    "pt": ["impressora", "impressoras", "fotocopiadora", "tinteiro", "tinteiros", "toner"]
+   }, "theme": "tech"},
+  {"code": "87", "names": {"fr": "Voitures et véhicules", "en": "Cars and vehicles", "de": "Autos und Fahrzeuge"},
+   "synonyms": {
+    "fr": ["véhicule", "véhicules", "véhicules routiers", "pièces de vélo", "pièces de moto", "selle de vélo", "guidon", "dérailleur", "poussette", "poussettes", "landau", "fauteuil roulant", "fauteuils roulants", "chaise roulante"],
+    "en": ["vehicles", "vehicle", "motor vehicles", "bike parts", "bicycle parts", "motorcycle parts", "handlebars", "derailleur", "pram", "prams", "pushchair", "stroller", "buggy", "wheelchair", "wheelchairs"],
+    "de": ["fahrzeuge", "fahrzeug", "kraftfahrzeuge", "kfz", "fahrradteile", "motorradteile", "fahrradsattel", "lenker", "kinderwagen", "buggy", "rollstuhl", "rollstühle", "rollstuehle"],
+    "pt": ["veículos", "veículo", "viaturas", "peças de bicicleta", "peças de mota", "selim", "guiador", "carrinho de bebé", "carrinhos de bebé", "cadeira de rodas", "cadeiras de rodas"]
+   }, "theme": "transport"},
+  {"code": "8703", "names": {"fr": "Voitures", "en": "Cars", "de": "Autos"},
+   "synonyms": {
+    "fr": ["voiture", "voitures", "auto", "autos", "automobile", "automobiles", "bagnole", "voiture électrique", "voitures électriques", "voiture hybride", "suv", "4x4", "berline", "break", "monospace", "voiture d'occasion"],
+    "en": ["car", "cars", "automobile", "automobiles", "motor car", "electric car", "electric cars", "ev", "hybrid car", "suv", "suvs", "used car"],
+    "de": ["auto", "autos", "pkw", "wagen", "personenwagen", "elektroauto", "e-auto", "hybridauto", "suv", "gebrauchtwagen"],
+    "lb": ["auto", "autoen", "elektroauto"],
+    "pt": ["carro", "carros", "automóvel", "automóveis", "viatura", "carro elétrico", "carros elétricos", "carro híbrido"]
+   }, "theme": "transport"},
+  {"code": "8704", "names": {"fr": "Camions et camionnettes", "en": "Trucks and vans", "de": "Lkw und Lieferwagen"},
+   "synonyms": {
+    "fr": ["camion", "camions", "camionnette", "camionnettes", "utilitaire", "utilitaires", "poids lourd", "poids lourds", "fourgon", "fourgonnette", "pick-up", "camion benne", "camion-poubelle"],
+    "en": ["truck", "trucks", "lorry", "lorries", "van", "vans", "delivery van", "pickup", "pick-up", "hgv", "dump truck", "bin lorry"],
+    "de": ["lkw", "lastwagen", "laster", "lieferwagen", "transporter", "kleintransporter", "pick-up", "kipper", "müllwagen", "muellwagen"],
+    "lb": ["camion", "camionnette"],
+    "pt": ["camião", "camiões", "caminhão", "carrinha", "carrinhas", "furgoneta", "pick-up"]
+   }, "theme": "transport"},
+  {"code": "8702", "names": {"fr": "Bus et autocars", "en": "Buses and coaches", "de": "Busse"},
+   "synonyms": {
+    "fr": ["bus", "autobus", "autocar", "autocars", "minibus", "bus électrique"],
+    "en": ["bus", "buses", "coach", "coaches", "minibus", "electric bus"],
+    "de": ["bus", "busse", "omnibus", "reisebus", "linienbus", "kleinbus", "elektrobus"],
+    "lb": ["bus", "bussen"],
+    "pt": ["autocarro", "autocarros", "ônibus", "miniautocarro"]
+   }, "theme": "transport"},
+  {"code": "8701", "names": {"fr": "Tracteurs", "en": "Tractors", "de": "Traktoren"},
+   "synonyms": {
+    "fr": ["tracteur", "tracteurs", "tracteur agricole", "tracteur routier", "tracteur de semi-remorque"],
+    "en": ["tractor", "tractors", "farm tractor", "tractor unit", "semi truck"],
+    "de": ["traktor", "traktoren", "trecker", "schlepper", "sattelzugmaschine", "zugmaschine"],
+    "lb": ["trakter"],
+    "pt": ["trator", "tratores", "tractor", "trator agrícola"]
+   }, "theme": "transport"},
+  {"code": "8716", "names": {"fr": "Remorques et caravanes", "en": "Trailers and caravans", "de": "Anhänger und Wohnwagen"},
+   "synonyms": {
+    "fr": ["remorque", "remorques", "semi-remorque", "semi-remorques", "caravane", "caravanes", "brouette", "brouettes", "charrette", "diable"],
+    "en": ["trailer", "trailers", "semi-trailer", "semi-trailers", "caravan", "caravans", "wheelbarrow", "cart", "hand truck"],
+    "de": ["anhänger", "anhaenger", "sattelauflieger", "auflieger", "wohnwagen", "schubkarre", "bollerwagen", "sackkarre"],
+    "pt": ["reboque", "reboques", "semirreboque", "caravana", "caravanas", "carrinho de mão"]
+   }, "theme": "transport"},
+  {"code": "8708", "names": {"fr": "Pièces auto", "en": "Car parts", "de": "Autoteile"},
+   "synonyms": {
+    "fr": ["pièces auto", "pièces automobiles", "pièce détachée", "pièces détachées", "frein", "freins", "plaquettes de frein", "pare-chocs", "boîte de vitesses", "embrayage", "pot d'échappement", "ceinture de sécurité", "airbag", "jante", "jantes", "amortisseur", "amortisseurs", "volant"],
+    "en": ["car parts", "auto parts", "spare parts", "brakes", "brake pads", "bumper", "gearbox", "clutch", "exhaust", "seat belt", "airbag", "wheels", "rims", "shock absorbers", "steering wheel"],
+    "de": ["autoteile", "ersatzteile", "kfz-teile", "bremsen", "bremsbeläge", "bremsbelaege", "stoßstange", "stossstange", "getriebe", "kupplung", "auspuff", "sicherheitsgurt", "airbag", "felgen", "stoßdämpfer", "stossdaempfer", "lenkrad"],
+    "pt": ["peças auto", "peças de automóvel", "travões", "pastilhas de travão", "para-choques", "caixa de velocidades", "embraiagem", "escape", "cinto de segurança", "airbag", "jantes", "amortecedores", "volante"]
+   }, "theme": "transport"},
+  {"code": "4011", "names": {"fr": "Pneus", "en": "Tyres", "de": "Reifen"},
+   "synonyms": {
+    "fr": ["pneu", "pneus", "pneumatique", "pneumatiques", "pneus neufs", "pneu de voiture", "pneus hiver", "pneus d'hiver", "pneus été", "pneu de vélo", "pneu de camion"],
+    "en": ["tyre", "tyres", "tire", "tires", "car tyres", "new tyres", "winter tyres", "summer tyres", "truck tyres"],
+    "de": ["reifen", "autoreifen", "winterreifen", "sommerreifen", "ganzjahresreifen", "lkw-reifen", "fahrradreifen"],
+    "lb": ["pneu", "pneuen"],
+    "pt": ["pneu", "pneus", "pneumático", "pneumáticos", "pneus de inverno"]
+   }, "theme": "transport"},
+  {"code": "8711", "names": {"fr": "Motos et vélos électriques", "en": "Motorbikes and e-bikes", "de": "Motorräder und E-Bikes"},
+   "synonyms": {
+    "fr": ["moto", "motos", "motocyclette", "scooter", "scooters", "mobylette", "cyclomoteur", "deux-roues", "vélo électrique", "vélos électriques", "vae", "e-bike", "trottinette électrique", "trottinettes électriques"],
+    "en": ["motorcycle", "motorcycles", "motorbike", "motorbikes", "scooter", "scooters", "moped", "mopeds", "e-bike", "e-bikes", "electric bike", "electric bikes", "electric bicycle", "pedelec", "e-scooter", "electric scooter"],
+    "de": ["motorrad", "motorräder", "motorraeder", "motorroller", "moped", "mofa", "e-bike", "e-bikes", "pedelec", "elektrofahrrad", "e-scooter", "e-roller", "elektroroller"],
+    "lb": ["moto", "motoen", "e-bike", "scooter"],
+    "pt": ["mota", "motas", "moto", "motociclo", "motorizada", "scooter", "bicicleta elétrica", "bicicletas elétricas", "trotinete elétrica", "trotineta elétrica"]
+   }, "theme": "transport"},
+  {"code": "8712", "names": {"fr": "Vélos", "en": "Bicycles", "de": "Fahrräder"},
+   "synonyms": {
+    "fr": ["vélo", "vélos", "bicyclette", "bicyclettes", "vtt", "vélo de course", "vélo de route", "vélo de ville", "vélo enfant", "bmx", "tandem"],
+    "en": ["bike", "bikes", "bicycle", "bicycles", "cycle", "mountain bike", "road bike", "racing bike", "bmx", "tandem"],
+    "de": ["fahrrad", "fahrräder", "fahrraeder", "rad", "velo", "mountainbike", "rennrad", "kinderfahrrad", "bmx", "tandem"],
+    "lb": ["vëlo", "vëloen"],
+    "pt": ["bicicleta", "bicicletas", "btt", "bicicleta de estrada", "bmx"]
+   }, "theme": "transport"},
+  {"code": "8802", "names": {"fr": "Avions et hélicoptères", "en": "Aircraft", "de": "Flugzeuge"},
+   "synonyms": {
+    "fr": ["avion", "avions", "avion cargo", "avion de ligne", "aéronef", "jet", "jet privé", "hélicoptère", "hélicoptères", "boeing", "airbus", "satellite", "satellites"],
+    "en": ["plane", "planes", "aeroplane", "airplane", "aircraft", "airliner", "cargo plane", "jet", "private jet", "helicopter", "helicopters", "boeing", "airbus", "satellite", "satellites"],
+    "de": ["flugzeug", "flugzeuge", "frachtflugzeug", "verkehrsflugzeug", "jet", "privatjet", "hubschrauber", "helikopter", "boeing", "airbus", "satellit", "satelliten"],
+    "lb": ["fliger"],
+    "pt": ["avião", "aviões", "avião de carga", "jato", "helicóptero", "helicópteros", "satélite", "satélites"]
+   }, "theme": "transport"},
+  {"code": "8807", "names": {"fr": "Pièces d'avion", "en": "Aircraft parts", "de": "Flugzeugteile"},
+   "synonyms": {
+    "fr": ["pièces d'avion", "pièces aéronautiques", "pièces détachées avion", "train d'atterrissage", "hélice", "hélices", "aile d'avion"],
+    "en": ["aircraft parts", "aeroplane parts", "plane parts", "landing gear", "propeller", "propellers"],
+    "de": ["flugzeugteile", "luftfahrtteile", "fahrwerk", "propeller"],
+    "pt": ["peças de avião", "peças aeronáuticas", "hélice", "hélices", "trem de aterragem"]
+   }, "theme": "transport"},
+  {"code": "8411", "names": {"fr": "Moteurs d'avion", "en": "Jet engines", "de": "Flugzeugtriebwerke"},
+   "synonyms": {
+    "fr": ["moteur d'avion", "moteurs d'avion", "réacteur d'avion", "réacteurs", "turboréacteur", "turboréacteurs", "turbopropulseur", "turbine à gaz", "turbines à gaz"],
+    "en": ["jet engine", "jet engines", "aircraft engine", "aircraft engines", "turbofan", "turboprop", "gas turbine", "gas turbines"],
+    "de": ["triebwerk", "triebwerke", "flugzeugtriebwerk", "düsentriebwerk", "duesentriebwerk", "strahltriebwerk", "gasturbine", "gasturbinen"],
+    "pt": ["motor de avião", "motores de avião", "reator", "turbina a gás"]
+   }, "theme": "transport"},
+  {"code": "88", "names": {"fr": "Avions et satellites", "en": "Aircraft and satellites", "de": "Flugzeuge und Satelliten"},
+   "synonyms": {
+    "fr": ["aéronautique", "aviation", "spatial", "aérospatial", "aérospatiale", "drone", "drones", "planeur", "montgolfière"],
+    "en": ["aviation", "aerospace", "aeronautics", "space industry", "drone", "drones", "glider", "hot-air balloon"],
+    "de": ["luftfahrt", "raumfahrt", "luft- und raumfahrt", "drohne", "drohnen", "segelflugzeug", "heißluftballon", "heissluftballon"],
+    "pt": ["aeronáutica", "aviação", "aeroespacial", "drone", "drones", "planador"]
+   }, "theme": "transport"},
+  {"code": "89", "names": {"fr": "Bateaux", "en": "Ships and boats", "de": "Schiffe und Boote"},
+   "synonyms": {
+    "fr": ["bateau", "bateaux", "navire", "navires", "cargo", "porte-conteneurs", "pétrolier", "péniche", "péniches", "paquebot", "ferry", "bateau de croisière", "yacht", "yachts", "voilier", "voiliers", "bateau de plaisance", "bateau à moteur", "hors-bord", "kayak", "canoë", "pédalo", "jet-ski", "bateau gonflable"],
+    "en": ["boat", "boats", "ship", "ships", "vessel", "cargo ship", "container ship", "tanker", "barge", "cruise ship", "ferry", "yacht", "yachts", "sailboat", "sailing boat", "motorboat", "speedboat", "kayak", "canoe", "dinghy", "jet ski", "inflatable boat"],
+    "de": ["boot", "boote", "schiff", "schiffe", "frachtschiff", "containerschiff", "tanker", "frachter", "binnenschiff", "kreuzfahrtschiff", "fähre", "faehre", "yacht", "jacht", "segelboot", "motorboot", "kajak", "kanu", "schlauchboot", "jetski"],
+    "lb": ["boot", "schëff"],
+    "pt": ["barco", "barcos", "navio", "navios", "navio de carga", "porta-contentores", "petroleiro", "ferry", "iate", "iates", "veleiro", "lancha", "caiaque", "canoa", "mota de água"]
+   }, "theme": "transport"},
+  {"code": "86", "names": {"fr": "Trains et tramways", "en": "Trains and trams", "de": "Züge und Straßenbahnen"},
+   "synonyms": {
+    "fr": ["train", "trains", "tram", "trams", "tramway", "tramways", "rame", "métro", "tgv", "automotrice", "locomotive", "locomotives", "wagon", "wagons", "ferroviaire", "chemin de fer", "matériel roulant", "conteneur", "conteneurs", "container", "containers"],
+    "en": ["train", "trains", "tram", "trams", "tramway", "streetcar", "metro train", "locomotive", "locomotives", "wagon", "wagons", "railway", "railways", "railroad", "rolling stock", "container", "containers", "shipping container"],
+    "de": ["zug", "züge", "zuege", "straßenbahn", "strassenbahn", "tram", "triebwagen", "triebzug", "s-bahn", "u-bahn", "lokomotive", "lok", "waggon", "waggons", "güterwagen", "gueterwagen", "eisenbahn", "bahn", "container", "frachtcontainer", "seecontainer"],
+    "lb": ["zuch", "tram"],
+    "pt": ["comboio", "comboios", "elétrico", "elétricos", "metro", "trem", "locomotiva", "vagão", "vagões", "caminho de ferro", "ferroviário", "contentor", "contentores"]
+   }, "theme": "transport"},
+  {"code": "7302", "names": {"fr": "Rails", "en": "Rails", "de": "Schienen"},
+   "synonyms": {
+    "fr": ["rail", "rails", "voie ferrée", "voies ferrées", "traverse", "traverses", "aiguillage"],
+    "en": ["rail", "rails", "railway track", "railway tracks", "sleepers"],
+    "de": ["schiene", "schienen", "gleis", "gleise", "weiche", "schwellen"],
+    "pt": ["carril", "carris", "trilho", "trilhos", "linha férrea"]
+   }, "theme": "transport"},
+  {"code": "84", "names": {"fr": "Machines", "en": "Machinery", "de": "Maschinen"},
+   "synonyms": {
+    "fr": ["machine", "machines", "machines industrielles", "machinerie", "mécanique", "grue", "grues", "pont roulant", "chariot élévateur", "chariots élévateurs", "pompe", "pompes", "pompe à eau", "ventilateur", "ventilateurs", "compresseur", "compresseurs", "hotte aspirante", "climatiseur", "climatisation", "clim", "chaudière", "chaudières", "chaudière à gaz", "filtre", "filtres", "filtre à eau", "purificateur d'air", "lave-vaisselle", "roulement", "roulements", "roulement à billes", "balance de cuisine", "pèse-personne", "tondeuse", "tondeuse à gazon", "robot tondeuse", "moissonneuse", "moissonneuse-batteuse", "machine agricole", "machines agricoles", "charrue", "distributeur automatique", "distributeur de billets", "moule industriel", "moteur diesel", "moteur à essence", "machine à coudre", "imprimante 3d"],
+    "en": ["machinery", "machines", "machine", "industrial machinery", "crane", "cranes", "forklift", "forklifts", "pump", "pumps", "water pump", "fan", "fans", "compressor", "compressors", "cooker hood", "air conditioner", "air conditioning", "boiler", "boilers", "gas boiler", "filter", "filters", "water filter", "air purifier", "dishwasher", "dishwashers", "bearings", "ball bearings", "scales", "bathroom scales", "lawn mower", "lawnmower", "mower", "combine harvester", "harvester", "farm machinery", "plough", "tractor parts", "vending machine", "atm", "cash machine", "mould", "moulds", "diesel engine", "petrol engine", "sewing machine", "3d printer"],
+    "de": ["maschine", "maschinen", "maschinenbau", "industriemaschinen", "kran", "krane", "kräne", "kraene", "baukran", "gabelstapler", "stapler", "pumpe", "pumpen", "wasserpumpe", "ventilator", "ventilatoren", "kompressor", "dunstabzugshaube", "klimaanlage", "klimagerät", "klimageraet", "heizkessel", "heizung", "gasheizung", "ölheizung", "oelheizung", "filter", "wasserfilter", "luftreiniger", "geschirrspüler", "geschirrspueler", "spülmaschine", "spuelmaschine", "kugellager", "wälzlager", "waelzlager", "waage", "personenwaage", "rasenmäher", "rasenmaeher", "mähroboter", "maehroboter", "mähdrescher", "maehdrescher", "landmaschinen", "pflug", "verkaufsautomat", "geldautomat", "spritzgussform", "dieselmotor", "benzinmotor", "nähmaschine", "naehmaschine", "3d-drucker"],
+    "lb": ["maschinn", "maschinnen", "kran", "spullmaschinn"],
+    "pt": ["máquinas", "máquina", "maquinaria", "grua", "gruas", "empilhador", "empilhadores", "bomba", "bombas", "bomba de água", "ventoinha", "ventilador", "compressor", "exaustor", "ar condicionado", "caldeira", "caldeiras", "filtro", "filtros", "purificador de ar", "máquina de lavar loiça", "rolamentos", "balança", "corta-relva", "corta-relvas", "ceifeira-debulhadora", "máquinas agrícolas", "multibanco", "molde", "moldes", "motor a gasóleo", "máquina de costura", "impressora 3d"]
+   }, "theme": "industry"},
+  {"code": "8428", "names": {"fr": "Robots, ascenseurs et convoyeurs", "en": "Robots, lifts and conveyors", "de": "Roboter, Aufzüge und Förderanlagen"},
+   "synonyms": {
+    "fr": ["robot industriel", "robots industriels", "robot", "robots", "ascenseur", "ascenseurs", "monte-charge", "escalator", "escalators", "escalier roulant", "escaliers mécaniques", "trottoir roulant", "convoyeur", "convoyeurs", "tapis convoyeur", "téléphérique", "télésiège", "remontée mécanique"],
+    "en": ["industrial robot", "industrial robots", "robot", "robots", "lift", "lifts", "elevator", "elevators", "escalator", "escalators", "moving walkway", "conveyor", "conveyors", "conveyor belt", "cable car", "chairlift", "ski lift"],
+    "de": ["industrieroboter", "roboter", "aufzug", "aufzüge", "aufzuege", "fahrstuhl", "lift", "rolltreppe", "rolltreppen", "förderband", "foerderband", "förderanlage", "foerderanlage", "seilbahn", "sessellift", "skilift"],
+    "lb": ["lift"],
+    "pt": ["robô industrial", "robôs industriais", "robô", "robôs", "elevador", "elevadores", "escada rolante", "escadas rolantes", "tapete rolante", "transportador", "teleférico"]
+   }, "theme": "industry"},
+  {"code": "8429", "names": {"fr": "Engins de chantier", "en": "Construction machinery", "de": "Baumaschinen"},
+   "synonyms": {
+    "fr": ["bulldozer", "bulldozers", "pelleteuse", "pelleteuses", "excavatrice", "pelle mécanique", "mini-pelle", "tractopelle", "chargeuse", "niveleuse", "rouleau compresseur", "engins de chantier"],
+    "en": ["bulldozer", "bulldozers", "excavator", "excavators", "digger", "diggers", "backhoe", "wheel loader", "grader", "road roller", "steamroller", "construction machinery"],
+    "de": ["bagger", "minibagger", "bulldozer", "planierraupe", "radlader", "walze", "straßenwalze", "strassenwalze", "baumaschinen"],
+    "lb": ["bagger"],
+    "pt": ["escavadora", "escavadoras", "retroescavadora", "bulldozer", "pá carregadora", "cilindro", "máquinas de construção"]
+   }, "theme": "industry"},
+  {"code": "8481", "names": {"fr": "Robinets et vannes", "en": "Taps and valves", "de": "Armaturen und Ventile"},
+   "synonyms": {
+    "fr": ["robinet", "robinets", "robinetterie", "mitigeur", "mitigeurs", "vanne", "vannes", "valve", "valves", "soupape", "soupapes", "détendeur"],
+    "en": ["tap", "taps", "faucet", "faucets", "mixer tap", "valve", "valves", "pressure regulator"],
+    "de": ["wasserhahn", "wasserhähne", "wasserhaehne", "armatur", "armaturen", "mischbatterie", "ventil", "ventile", "absperrhahn"],
+    "pt": ["torneira", "torneiras", "misturadora", "válvula", "válvulas"]
+   }, "theme": "industry"},
+  {"code": "8467", "names": {"fr": "Outils électriques", "en": "Power tools", "de": "Elektrowerkzeuge"},
+   "synonyms": {
+    "fr": ["perceuse", "perceuses", "visseuse", "perceuse-visseuse", "tronçonneuse", "tronçonneuses", "scie électrique", "scie sauteuse", "meuleuse", "disqueuse", "ponceuse", "taille-haie", "marteau-piqueur", "outil électrique", "outils électriques"],
+    "en": ["drill", "drills", "power drill", "cordless drill", "chainsaw", "chainsaws", "electric saw", "angle grinder", "sander", "hedge trimmer", "jackhammer", "power tool", "power tools"],
+    "de": ["bohrmaschine", "akkuschrauber", "bohrhammer", "kettensäge", "kettensaege", "motorsäge", "motorsaege", "stichsäge", "stichsaege", "flex", "winkelschleifer", "schleifmaschine", "heckenschere", "presslufthammer", "elektrowerkzeug", "elektrowerkzeuge"],
+    "pt": ["berbequim", "berbequins", "aparafusadora", "motosserra", "serra elétrica", "rebarbadora", "lixadeira", "corta-sebes", "ferramentas elétricas"]
+   }, "theme": "industry"},
+  {"code": "8477", "names": {"fr": "Machines pour plastiques", "en": "Plastics machinery", "de": "Kunststoffmaschinen"},
+   "synonyms": {
+    "fr": ["presse à injecter", "presses à injecter", "machine d'injection plastique", "extrudeuse", "extrudeuses", "machines pour plastiques", "machine à pneus"],
+    "en": ["injection moulding machine", "injection molding machine", "extruder", "extruders", "plastics machinery", "tyre-building machine"],
+    "de": ["spritzgießmaschine", "spritzgiessmaschine", "spritzgussmaschine", "extruder", "kunststoffmaschine", "kunststoffmaschinen"],
+    "pt": ["máquina de injeção", "injetora", "extrusora", "máquinas para plásticos"]
+   }, "theme": "industry"},
+  {"code": "82", "names": {"fr": "Outils et couverts", "en": "Tools and cutlery", "de": "Werkzeuge und Besteck"},
+   "synonyms": {
+    "fr": ["outil", "outils", "outils à main", "marteau", "marteaux", "tournevis", "clé à molette", "pince", "pinces", "scie", "scies", "pelle", "pioche", "râteau", "foret", "forets", "couteau", "couteaux", "couteau de cuisine", "canif", "couverts", "cuillère", "cuillères", "fourchette", "fourchettes", "louche", "ciseaux"],
+    "en": ["tool", "tools", "hand tools", "hammer", "hammers", "screwdriver", "screwdrivers", "wrench", "spanner", "pliers", "saw", "saws", "file", "shovel", "spade", "rake", "drill bit", "drill bits", "knife", "knives", "kitchen knife", "penknife", "cutlery", "spoon", "spoons", "fork", "forks", "ladle", "scissors"],
+    "de": ["werkzeug", "werkzeuge", "handwerkzeug", "hammer", "schraubendreher", "schraubenzieher", "schraubenschlüssel", "schraubenschluessel", "zange", "säge", "saege", "feile", "schaufel", "spaten", "rechen", "bohrer", "messer", "küchenmesser", "kuechenmesser", "taschenmesser", "besteck", "löffel", "loeffel", "gabel", "gabeln", "schöpfkelle", "schoepfkelle", "schere"],
+    "pt": ["ferramenta", "ferramentas", "martelo", "chave de fendas", "chave inglesa", "alicate", "serrote", "pá", "ancinho", "broca", "faca", "facas", "canivete", "talheres", "colher", "colheres", "garfo", "garfos", "concha", "tesoura"]
+   }, "theme": "industry"},
+  {"code": "83", "names": {"fr": "Serrures et quincaillerie", "en": "Locks and fittings", "de": "Schlösser und Beschläge"},
+   "synonyms": {
+    "fr": ["serrure", "serrures", "cadenas", "verrou", "verrous", "antivol", "clé", "clés", "poignée de porte", "charnière", "charnières", "roulettes", "ferrures", "quincaillerie", "coffre-fort"],
+    "en": ["lock", "locks", "padlock", "padlocks", "bike lock", "key", "keys", "door handle", "hinge", "hinges", "castors", "fittings", "ironmongery", "strongbox"],
+    "de": ["schloss", "schlösser", "schloesser", "vorhängeschloss", "vorhaengeschloss", "fahrradschloss", "schlüssel", "schluessel", "türschloss", "tuerschloss", "türgriff", "tuergriff", "türklinke", "tuerklinke", "scharnier", "scharniere", "beschläge", "beschlaege", "tresor"],
+    "pt": ["fechadura", "fechaduras", "cadeado", "cadeados", "chave", "chaves", "puxador", "puxadores", "dobradiça", "dobradiças", "ferragens", "cofre"]
+   }, "theme": "home"},
+  {"code": "72", "names": {"fr": "Fer et acier", "en": "Iron and steel", "de": "Eisen und Stahl"},
+   "synonyms": {
+    "fr": ["acier", "aciers", "fer", "sidérurgie", "fonte", "produits sidérurgiques", "inox", "acier inoxydable", "acier inox", "tôle inox", "fil machine", "fil de fer", "fil d'acier", "demi-produits"],
+    "en": ["steel", "iron", "steelmaking", "steel industry", "pig iron", "cast iron", "stainless steel", "stainless", "inox", "wire rod", "steel wire", "iron wire"],
+    "de": ["stahl", "eisen", "roheisen", "gusseisen", "stahlindustrie", "edelstahl", "rostfreier stahl", "nirosta", "inox", "walzdraht", "stahldraht", "draht", "eisendraht"],
+    "lb": ["stol", "eisen"],
+    "pt": ["aço", "ferro", "siderurgia", "ferro fundido", "inox", "aço inoxidável", "fio-máquina", "arame", "arame de aço"]
+   }, "theme": "materials"},
+  {"code": "73", "names": {"fr": "Objets en acier", "en": "Steel goods", "de": "Stahlwaren"},
+   "synonyms": {
+    "fr": ["ouvrages en acier", "objets en acier", "produits en acier", "objets en fer", "ferronnerie", "vis", "boulon", "boulons", "écrou", "écrous", "rivets", "rondelles", "clous", "tube en acier", "tubes en acier", "tuyau en acier", "tuyaux en acier", "grillage", "clôture", "radiateur", "radiateurs", "poêle à bois", "poêle à pellets", "barbecue", "barbecues", "cuisinière à gaz", "réchaud", "casserole", "casseroles", "poêle à frire", "poêle", "poêles", "marmite", "cocotte", "ustensiles de cuisine", "citerne", "fût"],
+    "en": ["steel products", "steel articles", "ironwork", "screw", "screws", "bolt", "bolts", "washers", "rivets", "nails", "steel tube", "steel tubes", "steel pipe", "steel pipes", "wire mesh", "fencing", "radiator", "radiators", "wood stove", "wood burner", "pellet stove", "barbecue", "bbq", "gas cooker", "camping stove", "saucepan", "saucepans", "frying pan", "pots and pans", "cookware", "kitchenware", "tank", "drum"],
+    "de": ["stahlwaren", "stahlprodukte", "eisenwaren", "schraube", "schrauben", "muttern", "bolzen", "unterlegscheibe", "nieten", "nägel", "naegel", "stahlrohr", "stahlrohre", "maschendraht", "zaun", "heizkörper", "heizkoerper", "radiator", "kaminofen", "holzofen", "pelletofen", "grill", "gasgrill", "holzkohlegrill", "gasherd", "campingkocher", "kochtopf", "töpfe", "toepfe", "topf", "pfanne", "bratpfanne", "kochgeschirr", "tank", "fass"],
+    "pt": ["artigos de aço", "produtos de aço", "parafuso", "parafusos", "porca", "porcas", "anilha", "rebite", "pregos", "tubo de aço", "tubos de aço", "rede metálica", "vedação", "radiador", "radiadores", "salamandra", "recuperador de calor", "fogão a lenha", "grelhador", "churrasqueira", "fogão a gás", "panela", "panelas", "frigideira", "tacho", "utensílios de cozinha"]
+   }, "theme": "materials"},
+  {"code": "7204", "names": {"fr": "Ferraille", "en": "Steel scrap", "de": "Stahlschrott"},
+   "synonyms": {
+    "fr": ["ferraille", "ferrailles", "mitraille", "déchets d'acier", "déchets de fer", "débris de fer", "acier recyclé"],
+    "en": ["scrap metal", "steel scrap", "scrap iron", "ferrous scrap", "scrap"],
+    "de": ["schrott", "stahlschrott", "eisenschrott", "altmetall", "alteisen"],
+    "pt": ["sucata", "sucata de ferro", "ferro-velho"]
+   }, "theme": "materials"},
+  {"code": "7216", "names": {"fr": "Poutrelles en acier", "en": "Steel beams", "de": "Stahlträger"},
+   "synonyms": {
+    "fr": ["poutrelle", "poutrelles", "poutrelle h", "poutrelles h", "poutre en acier", "poutres en acier", "poutre métallique", "poutrelles laminées", "profilé", "profilés", "profilé en acier", "ipe", "ipn", "heb", "cornière", "cornières"],
+    "en": ["steel beam", "steel beams", "beam", "beams", "i-beam", "h-beam", "girder", "girders", "steel sections", "steel profiles", "angle iron"],
+    "de": ["stahlträger", "stahltraeger", "träger", "traeger", "doppel-t-träger", "doppel-t-traeger", "h-träger", "h-traeger", "i-träger", "i-traeger", "profilstahl", "stahlprofil", "stahlprofile", "winkelstahl"],
+    "pt": ["viga de aço", "vigas de aço", "viga", "vigas", "perfis de aço", "perfil metálico", "cantoneira"]
+   }, "theme": "materials"},
+  {"code": "7208", "names": {"fr": "Tôles d'acier", "en": "Steel sheets", "de": "Stahlbleche"},
+   "synonyms": {
+    "fr": ["tôle", "tôles", "tôle d'acier", "tôles d'acier", "tôle laminée à chaud", "laminé à chaud", "bobine d'acier", "bobines d'acier", "coil", "coils", "tôle forte", "plaque d'acier"],
+    "en": ["steel sheet", "steel plate", "hot-rolled steel", "hot-rolled coil", "steel coil", "steel coils", "heavy plate"],
+    "de": ["stahlblech", "blech", "warmband", "grobblech", "stahlcoil", "stahlplatte"],
+    "pt": ["chapa de aço", "chapas de aço", "chapa", "bobina de aço", "aço laminado a quente"]
+   }, "theme": "materials"},
+  {"code": "7210", "names": {"fr": "Tôles galvanisées", "en": "Coated steel sheets", "de": "Beschichtete Stahlbleche"},
+   "synonyms": {
+    "fr": ["tôle galvanisée", "tôles galvanisées", "acier galvanisé", "tôle zinguée", "tôle revêtue", "acier revêtu", "tôle prélaquée", "fer-blanc"],
+    "en": ["galvanised steel", "galvanized steel", "galvanised sheet", "coated steel", "pre-painted steel", "tinplate"],
+    "de": ["verzinktes blech", "verzinkter stahl", "feuerverzinkt", "beschichtetes blech", "weißblech", "weissblech"],
+    "pt": ["chapa galvanizada", "aço galvanizado", "chapa zincada", "folha-de-flandres"]
+   }, "theme": "materials"},
+  {"code": "7214", "names": {"fr": "Barres d'acier", "en": "Steel bars", "de": "Stabstahl"},
+   "synonyms": {
+    "fr": ["barre d'acier", "barres d'acier", "rond à béton", "ronds à béton", "fer à béton", "acier à béton", "armature", "armatures"],
+    "en": ["steel bar", "steel bars", "rebar", "reinforcing bar", "reinforcing steel"],
+    "de": ["stabstahl", "betonstahl", "bewehrungsstahl", "baustahl", "moniereisen"],
+    "pt": ["varão de aço", "varões de aço", "ferro para betão", "aço para betão"]
+   }, "theme": "materials"},
+  {"code": "7228", "names": {"fr": "Barres en acier allié", "en": "Alloy steel bars", "de": "Legierter Stabstahl"},
+   "synonyms": {
+    "fr": ["acier allié", "barres en acier allié", "profilés en acier allié", "acier spécial", "aciers spéciaux"],
+    "en": ["alloy steel", "alloy steel bars", "special steel"],
+    "de": ["legierter stahl", "legierter stabstahl", "edelbaustahl"],
+    "pt": ["aço ligado", "aço especial"]
+   }, "theme": "materials"},
+  {"code": "7301", "names": {"fr": "Palplanches", "en": "Sheet piling", "de": "Spundwände"},
+   "synonyms": {
+    "fr": ["palplanche", "palplanches", "rideau de palplanches", "palplanches en acier"],
+    "en": ["sheet piling", "sheet pile", "sheet piles", "steel sheet piles"],
+    "de": ["spundwand", "spundwände", "spundwaende", "spundbohle", "spundbohlen"],
+    "pt": ["estaca-prancha", "estacas-prancha", "palplanchas"]
+   }, "theme": "materials"},
+  {"code": "7308", "names": {"fr": "Charpentes métalliques", "en": "Steel structures", "de": "Stahlkonstruktionen"},
+   "synonyms": {
+    "fr": ["charpente métallique", "structure métallique", "structures métalliques", "structure en acier", "pont métallique", "échafaudage", "échafaudages", "pylône", "pylônes", "porte métallique"],
+    "en": ["steel structure", "steel structures", "steel frame", "steel bridge", "scaffolding", "pylon", "pylons", "steel door"],
+    "de": ["stahlkonstruktion", "stahlkonstruktionen", "stahlbau", "gerüst", "geruest", "gerüste", "gerueste", "baugerüst", "baugeruest", "strommast", "stahltür", "stahltuer"],
+    "pt": ["estrutura metálica", "estruturas metálicas", "estrutura de aço", "andaime", "andaimes", "poste metálico"]
+   }, "theme": "materials"},
+  {"code": "74", "names": {"fr": "Cuivre", "en": "Copper", "de": "Kupfer"},
+   "synonyms": {
+    "fr": ["cuivre", "ouvrages en cuivre", "fil de cuivre", "laiton", "bronze"],
+    "en": ["copper", "copper wire", "brass", "bronze"],
+    "de": ["kupfer", "kupferdraht", "messing", "bronze"],
+    "pt": ["cobre", "fio de cobre", "latão", "bronze"]
+   }, "theme": "materials"},
+  {"code": "7410", "names": {"fr": "Feuilles de cuivre", "en": "Copper foil", "de": "Kupferfolie"},
+   "synonyms": {
+    "fr": ["feuille de cuivre", "feuilles de cuivre", "feuillard de cuivre", "film de cuivre"],
+    "en": ["copper foil", "copper foils"],
+    "de": ["kupferfolie", "kupferfolien"],
+    "pt": ["folha de cobre"]
+   }, "theme": "materials"},
+  {"code": "76", "names": {"fr": "Aluminium", "en": "Aluminium", "de": "Aluminium"},
+   "synonyms": {
+    "fr": ["aluminium", "alu", "aluminium brut", "lingot d'aluminium", "lingots d'aluminium", "déchets d'aluminium", "profilés aluminium", "fenêtre en aluminium", "fenêtres en aluminium", "canette", "canettes"],
+    "en": ["aluminium", "aluminum", "aluminium ingots", "aluminium scrap", "aluminium profiles", "aluminium windows", "cans", "drink cans"],
+    "de": ["aluminium", "alu", "rohaluminium", "aluminiumbarren", "aluminiumschrott", "aluminiumprofile", "aluminiumfenster", "alufenster", "dosen", "getränkedosen", "getraenkedosen"],
+    "lb": ["alu"],
+    "pt": ["alumínio", "lingotes de alumínio", "sucata de alumínio", "perfis de alumínio", "janelas de alumínio", "latas"]
+   }, "theme": "materials"},
+  {"code": "7607", "names": {"fr": "Papier aluminium", "en": "Aluminium foil", "de": "Alufolie"},
+   "synonyms": {
+    "fr": ["papier aluminium", "papier alu", "papier d'aluminium", "feuille d'aluminium", "feuilles d'aluminium"],
+    "en": ["aluminium foil", "aluminum foil", "tin foil", "tinfoil", "kitchen foil"],
+    "de": ["alufolie", "aluminiumfolie", "staniol"],
+    "pt": ["papel de alumínio", "folha de alumínio"]
+   }, "theme": "materials"},
+  {"code": "70", "names": {"fr": "Verre", "en": "Glass", "de": "Glas"},
+   "synonyms": {
+    "fr": ["verre", "verres à boire", "verre à boire", "verres à vin", "verre à vin", "carafe", "vaisselle en verre", "bouteille en verre", "bouteilles en verre", "bocal", "bocaux", "pot en verre", "flacon", "double vitrage", "triple vitrage", "vitrage isolant", "fibre de verre", "laine de verre", "miroir", "miroirs"],
+    "en": ["glass", "drinking glasses", "wine glasses", "glassware", "carafe", "glass bottle", "glass bottles", "jar", "jars", "glass jar", "double glazing", "triple glazing", "insulating glass", "fibreglass", "fiberglass", "glass wool", "mirror", "mirrors"],
+    "de": ["glas", "trinkgläser", "trinkglaeser", "gläser", "glaeser", "weingläser", "weinglaeser", "karaffe", "glaswaren", "glasflasche", "glasflaschen", "einmachglas", "marmeladenglas", "doppelverglasung", "dreifachverglasung", "isolierglas", "glaswolle", "spiegel"],
+    "lb": ["glas"],
+    "pt": ["vidro", "copo", "copos", "copos de vinho", "jarro", "garrafa de vidro", "garrafas de vidro", "frasco", "frascos", "vidro duplo", "vidros duplos", "fibra de vidro", "lã de vidro", "espelho", "espelhos"]
+   }, "theme": "materials"},
+  {"code": "7005", "names": {"fr": "Verre plat", "en": "Flat glass", "de": "Flachglas"},
+   "synonyms": {
+    "fr": ["verre plat", "verre flotté", "vitre", "vitres", "verre à vitre", "plaque de verre", "plaques de verre", "vitrage", "verre à couche"],
+    "en": ["flat glass", "float glass", "window glass", "glass sheet", "glass pane", "pane", "coated glass"],
+    "de": ["flachglas", "floatglas", "fensterglas", "glasscheibe", "scheibe", "scheiben"],
+    "pt": ["vidro plano", "vidro float", "vidraça", "vidraças", "vidro de janela"]
+   }, "theme": "materials"},
+  {"code": "7007", "names": {"fr": "Verre de sécurité", "en": "Safety glass", "de": "Sicherheitsglas"},
+   "synonyms": {
+    "fr": ["verre de sécurité", "verre trempé", "verre feuilleté", "pare-brise", "vitre de voiture"],
+    "en": ["safety glass", "toughened glass", "tempered glass", "laminated glass", "windscreen", "windshield"],
+    "de": ["sicherheitsglas", "einscheibensicherheitsglas", "verbundglas", "windschutzscheibe", "esg", "vsg"],
+    "pt": ["vidro de segurança", "vidro temperado", "vidro laminado", "para-brisas"]
+   }, "theme": "materials"},
+  {"code": "39", "names": {"fr": "Plastiques", "en": "Plastics", "de": "Kunststoffe"},
+   "synonyms": {
+    "fr": ["plastique", "plastiques", "matière plastique", "matières plastiques", "polyéthylène", "polypropylène", "pvc", "pet", "polyester", "résine", "résines", "résine époxy", "polystyrène", "film plastique", "film étirable", "film alimentaire", "tuyau", "tuyaux", "tuyau d'arrosage", "fenêtre pvc", "fenêtres pvc", "volet roulant", "volets roulants", "vaisselle en plastique", "boîte en plastique", "boîtes de conservation", "tupperware", "seau", "seaux", "bassine"],
+    "en": ["plastic", "plastics", "polyethylene", "polythene", "polypropylene", "pvc", "pet", "polyester", "resin", "resins", "epoxy", "polystyrene", "plastic film", "cling film", "stretch film", "hosepipe", "garden hose", "pvc windows", "upvc windows", "roller shutters", "plastic containers", "food containers", "tupperware", "bucket", "buckets"],
+    "de": ["kunststoff", "kunststoffe", "plastik", "polyethylen", "polypropylen", "pvc", "pet", "polyester", "kunstharz", "epoxidharz", "styropor", "kunststofffolie", "plastikfolie", "frischhaltefolie", "stretchfolie", "schlauch", "gartenschlauch", "kunststofffenster", "pvc-fenster", "rollladen", "rollläden", "rolllaeden", "plastikdosen", "frischhaltedose", "tupperdose", "eimer"],
+    "lb": ["plastik"],
+    "pt": ["plástico", "plásticos", "polietileno", "polipropileno", "pvc", "pet", "poliéster", "resina", "resinas", "esferovite", "película aderente", "filme plástico", "mangueira", "mangueiras", "janelas pvc", "estores", "caixas de plástico", "tupperware", "balde", "baldes"]
+   }, "theme": "materials"},
+  {"code": "3919", "names": {"fr": "Rubans adhésifs", "en": "Adhesive tape", "de": "Klebeband"},
+   "synonyms": {
+    "fr": ["ruban adhésif", "rubans adhésifs", "scotch", "adhésif d'emballage", "autocollant", "autocollants", "sticker", "stickers", "film adhésif", "étiquette adhésive"],
+    "en": ["adhesive tape", "sticky tape", "tape", "duct tape", "sellotape", "packing tape", "sticker", "stickers", "self-adhesive film", "adhesive film"],
+    "de": ["klebeband", "klebebänder", "klebebaender", "tesafilm", "tesa", "paketband", "aufkleber", "sticker", "klebefolie"],
+    "pt": ["fita adesiva", "fita-cola", "autocolante", "autocolantes", "película autocolante"]
+   }, "theme": "materials"},
+  {"code": "3918", "names": {"fr": "Sols en vinyle", "en": "Vinyl flooring", "de": "Vinylböden"},
+   "synonyms": {
+    "fr": ["sol vinyle", "sols vinyles", "sol en vinyle", "revêtement de sol", "revêtements de sol", "lino", "sol pvc", "lames pvc", "parquet vinyle"],
+    "en": ["vinyl flooring", "vinyl floor", "lvt", "floor covering", "floor coverings", "pvc flooring", "lino"],
+    "de": ["vinylboden", "pvc-boden", "bodenbelag", "bodenbeläge", "bodenbelaege", "designboden", "klick-vinyl"],
+    "pt": ["piso vinílico", "pavimento vinílico", "revestimento de piso", "chão vinílico"]
+   }, "theme": "home"},
+  {"code": "3923", "names": {"fr": "Emballages plastiques", "en": "Plastic packaging", "de": "Kunststoffverpackungen"},
+   "synonyms": {
+    "fr": ["emballage plastique", "emballages plastiques", "emballage en plastique", "bouteille plastique", "bouteilles plastiques", "bouteille en plastique", "sac plastique", "sacs plastiques", "sachet plastique", "bouchon", "bouchons", "barquette", "barquettes"],
+    "en": ["plastic packaging", "plastic bottle", "plastic bottles", "plastic bag", "plastic bags", "carrier bag", "bottle caps", "lids", "plastic trays"],
+    "de": ["kunststoffverpackung", "kunststoffverpackungen", "plastikverpackung", "plastikflasche", "plastikflaschen", "pet-flasche", "plastiktüte", "plastiktuete", "plastiktüten", "plastiktueten", "deckel", "verschluss"],
+    "pt": ["embalagens de plástico", "embalagem de plástico", "garrafa de plástico", "garrafas de plástico", "saco de plástico", "sacos de plástico", "tampas"]
+   }, "theme": "materials"},
+  {"code": "5603", "names": {"fr": "Non-tissés", "en": "Nonwovens", "de": "Vliesstoffe"},
+   "synonyms": {
+    "fr": ["non-tissé", "non-tissés", "nontissé", "textile non tissé", "voile non tissé", "tyvek"],
+    "en": ["nonwoven", "nonwovens", "non-woven fabric", "nonwoven fabric", "tyvek"],
+    "de": ["vliesstoff", "vliesstoffe", "vlies", "tyvek"],
+    "pt": ["não-tecido", "não tecido", "tecido não tecido"]
+   }, "theme": "materials"},
+  {"code": "5902", "names": {"fr": "Tissu pour pneus", "en": "Tyre cord fabric", "de": "Reifencord"},
+   "synonyms": {
+    "fr": ["tissu pour pneus", "nappe pour pneus", "toile câblée", "câblé pour pneus"],
+    "en": ["tyre cord", "tire cord", "tyre cord fabric", "tire cord fabric"],
+    "de": ["reifencord", "cordgewebe", "reifengewebe"],
+    "pt": ["tela para pneus"]
+   }, "theme": "materials"},
+  {"code": "40", "names": {"fr": "Caoutchouc et pneus", "en": "Rubber and tyres", "de": "Gummi und Reifen"},
+   "synonyms": {
+    "fr": ["caoutchouc", "caoutchouc naturel", "latex", "hévéa", "élastomère", "gants en caoutchouc", "gants en latex", "gants jetables", "gants en nitrile", "pneus usagés", "pneus rechapés", "chambre à air", "courroie"],
+    "en": ["rubber", "natural rubber", "latex", "rubber gloves", "latex gloves", "disposable gloves", "nitrile gloves", "used tyres", "retreaded tyres", "inner tube"],
+    "de": ["gummi", "kautschuk", "naturkautschuk", "latex", "gummihandschuhe", "latexhandschuhe", "einweghandschuhe", "altreifen", "runderneuerte reifen", "fahrradschlauch", "keilriemen"],
+    "pt": ["borracha", "borracha natural", "látex", "luvas de borracha", "luvas de látex", "luvas descartáveis", "pneus usados", "pneus recauchutados", "câmara de ar"]
+   }, "theme": "materials"},
+  {"code": "44", "names": {"fr": "Bois", "en": "Wood", "de": "Holz"},
+   "synonyms": {
+    "fr": ["bois", "contreplaqué", "contre-plaqué", "mdf", "panneau mdf", "panneau de fibres", "panneaux de fibres", "isorel", "palette", "palettes", "palette en bois", "caisse en bois", "caisses en bois", "cageot", "cageots", "parquet", "porte en bois", "portes en bois", "fenêtre en bois", "lambris", "charpente en bois", "charbon de bois"],
+    "en": ["wood", "timber", "plywood", "mdf", "fibreboard", "fiberboard", "hardboard", "pallet", "pallets", "wooden pallet", "crate", "crates", "wooden crate", "parquet", "wooden door", "wooden doors", "wooden windows", "wood flooring", "joinery", "charcoal", "barbecue charcoal"],
+    "de": ["holz", "sperrholz", "multiplex", "mdf", "faserplatte", "faserplatten", "hartfaserplatte", "palette", "paletten", "europalette", "holzkiste", "holzkisten", "parkett", "holztür", "holztuer", "holztüren", "holztueren", "holzfenster", "dachstuhl", "holzkohle", "grillkohle"],
+    "lb": ["holz"],
+    "pt": ["madeira", "contraplacado", "mdf", "platex", "palete", "paletes", "caixa de madeira", "parquet", "soalho", "porta de madeira", "portas de madeira", "janelas de madeira", "carvão vegetal"]
+   }, "theme": "materials"},
+  {"code": "4407", "names": {"fr": "Bois scié", "en": "Sawn timber", "de": "Schnittholz"},
+   "synonyms": {
+    "fr": ["bois scié", "planche", "planches", "madrier", "madriers", "poutre en bois", "poutres en bois", "bois de construction", "bois d'œuvre", "bois d'oeuvre", "latte", "lattes", "chevron", "chevrons"],
+    "en": ["sawn timber", "sawn wood", "lumber", "plank", "planks", "wooden beams", "timber beams", "construction timber"],
+    "de": ["schnittholz", "brett", "bretter", "bauholz", "kantholz", "balken", "latten", "dielen"],
+    "pt": ["madeira serrada", "tábua", "tábuas", "vigas de madeira", "ripas", "barrotes"]
+   }, "theme": "materials"},
+  {"code": "4410", "names": {"fr": "Panneaux de particules", "en": "Particle board", "de": "Spanplatten"},
+   "synonyms": {
+    "fr": ["panneau de particules", "panneaux de particules", "aggloméré", "agglo", "osb", "panneau osb", "panneaux osb"],
+    "en": ["particle board", "particleboard", "chipboard", "osb", "oriented strand board"],
+    "de": ["spanplatte", "spanplatten", "osb", "osb-platte", "osb-platten", "pressspan"],
+    "pt": ["aglomerado", "aglomerado de madeira", "osb", "painel de partículas"]
+   }, "theme": "materials"},
+  {"code": "48", "names": {"fr": "Papier et carton", "en": "Paper and cardboard", "de": "Papier und Pappe"},
+   "synonyms": {
+    "fr": ["papier", "papiers", "carton", "papier peint", "papier recyclé", "papier kraft", "ramette", "papier d'imprimante", "cahier", "cahiers", "carnet", "carnets", "agenda", "agendas", "classeur", "classeurs", "bloc-notes", "enveloppe", "enveloppes", "étiquette", "étiquettes"],
+    "en": ["paper", "cardboard", "paperboard", "wallpaper", "recycled paper", "kraft paper", "printer paper", "exercise book", "exercise books", "notepad", "diary", "planner", "binder", "ring binder", "envelope", "envelopes", "label", "labels"],
+    "de": ["papier", "pappe", "karton", "tapete", "tapeten", "recyclingpapier", "kraftpapier", "druckerpapier", "heft", "hefte", "schreibheft", "notizbuch", "notizblock", "terminkalender", "ordner", "briefumschlag", "umschläge", "umschlaege", "etikett", "etiketten"],
+    "lb": ["pabeier", "kartong"],
+    "pt": ["papel", "cartão", "papel de parede", "papel reciclado", "papel de impressão", "caderno", "cadernos", "agenda", "bloco de notas", "dossier", "envelope", "envelopes", "etiqueta", "etiquetas"]
+   }, "theme": "materials"},
+  {"code": "4819", "names": {"fr": "Boîtes en carton", "en": "Cardboard boxes", "de": "Kartons"},
+   "synonyms": {
+    "fr": ["boîte en carton", "boîtes en carton", "cartons", "carton d'emballage", "carton de déménagement", "emballage carton", "emballages en carton", "sac en papier", "sacs en papier"],
+    "en": ["cardboard box", "cardboard boxes", "cartons", "packaging boxes", "moving boxes", "paper bag", "paper bags"],
+    "de": ["kartons", "pappkarton", "pappkartons", "umzugskarton", "versandkarton", "faltschachtel", "papiertüte", "papiertuete", "papiertüten", "papiertueten"],
+    "pt": ["caixa de cartão", "caixas de cartão", "caixas de mudança", "saco de papel", "sacos de papel", "embalagens de cartão"]
+   }, "theme": "materials"},
+  {"code": "4811", "names": {"fr": "Papier autocollant", "en": "Self-adhesive paper", "de": "Selbstklebepapier"},
+   "synonyms": {
+    "fr": ["papier autocollant", "papier adhésif", "papiers adhésifs", "papier enduit", "papier plastifié", "papier paraffiné", "étiquettes autocollantes"],
+    "en": ["self-adhesive paper", "adhesive paper", "coated paper", "laminated paper", "waxed paper", "label stock", "self-adhesive labels"],
+    "de": ["selbstklebepapier", "klebepapier", "haftpapier", "beschichtetes papier", "wachspapier", "selbstklebeetiketten"],
+    "pt": ["papel autocolante", "papel adesivo", "papel revestido", "papel plastificado", "etiquetas autocolantes"]
+   }, "theme": "materials"},
+  {"code": "4901", "names": {"fr": "Livres", "en": "Books", "de": "Bücher"},
+   "synonyms": {
+    "fr": ["livre", "livres", "roman", "romans", "bd", "bande dessinée", "bandes dessinées", "manga", "mangas", "manuel scolaire", "manuels scolaires", "dictionnaire", "dictionnaires", "encyclopédie", "brochure", "brochures"],
+    "en": ["book", "books", "novel", "novels", "comics", "comic book", "comic books", "manga", "textbook", "textbooks", "dictionary", "encyclopedia", "brochure"],
+    "de": ["buch", "bücher", "buecher", "roman", "romane", "comic", "comics", "manga", "schulbuch", "schulbücher", "schulbuecher", "wörterbuch", "woerterbuch", "lexikon", "broschüre", "broschuere"],
+    "lb": ["buch", "bicher"],
+    "pt": ["livro", "livros", "romance", "banda desenhada", "bd", "manual escolar", "manuais escolares", "dicionário", "enciclopédia"]
+   }, "theme": "leisure"},
+  {"code": "4902", "names": {"fr": "Journaux et magazines", "en": "Newspapers and magazines", "de": "Zeitungen und Zeitschriften"},
+   "synonyms": {
+    "fr": ["journal", "journaux", "magazine", "magazines", "revue", "revues", "presse", "quotidien", "hebdomadaire", "périodique"],
+    "en": ["newspaper", "newspapers", "magazine", "magazines", "journal", "journals", "periodicals", "press"],
+    "de": ["zeitung", "zeitungen", "zeitschrift", "zeitschriften", "magazin", "illustrierte", "presse"],
+    "lb": ["zeitung"],
+    "pt": ["jornal", "jornais", "revista", "revistas", "imprensa"]
+   }, "theme": "leisure"},
+  {"code": "2523", "names": {"fr": "Ciment", "en": "Cement", "de": "Zement"},
+   "synonyms": {
+    "fr": ["ciment", "ciments", "clinker", "ciment portland"],
+    "en": ["cement", "portland cement", "clinker"],
+    "de": ["zement", "portlandzement", "klinker"],
+    "pt": ["cimento", "clínquer"]
+   }, "theme": "materials"},
+  {"code": "25", "names": {"fr": "Sel, pierres et ciment", "en": "Salt, stone and cement", "de": "Salz, Steine und Zement"},
+   "synonyms": {
+    "fr": ["sel", "sel de cuisine", "sel de table", "gros sel", "sel de déneigement", "sable", "sables", "gravier", "graviers", "gravillons", "cailloux", "ballast", "pierres concassées", "chaux", "plâtre", "argile", "ardoise"],
+    "en": ["salt", "table salt", "sea salt", "road salt", "sand", "building sand", "gravel", "crushed stone", "pebbles", "aggregates", "ballast", "quicklime", "plaster", "clay", "slate"],
+    "de": ["salz", "speisesalz", "meersalz", "streusalz", "sand", "bausand", "quarzsand", "kies", "schotter", "splitt", "kieselsteine", "kalk", "gips", "lehm", "schiefer"],
+    "lb": ["salz", "sand"],
+    "pt": ["sal", "sal marinho", "sal grosso", "areia", "areias", "gravilha", "brita", "cascalho", "seixos", "cal", "gesso", "argila", "ardósia"]
+   }, "theme": "materials"},
+  {"code": "68", "names": {"fr": "Pierre, plâtre et béton", "en": "Stone, plaster and concrete", "de": "Stein, Gips und Beton"},
+   "synonyms": {
+    "fr": ["béton", "parpaing", "parpaings", "bloc béton", "dalle en béton", "dalles en béton", "pavé", "pavés", "bordure", "béton préfabriqué", "pierre", "pierres", "pierre naturelle", "pierre de taille", "marbre", "granit", "granite", "plaque de plâtre", "placo", "laine de roche"],
+    "en": ["concrete", "concrete blocks", "breeze blocks", "paving stones", "pavers", "concrete slabs", "precast concrete", "kerbstones", "stone", "natural stone", "marble", "granite", "plasterboard", "drywall", "rock wool"],
+    "de": ["beton", "betonsteine", "betonfertigteile", "pflastersteine", "gehwegplatten", "betonplatten", "randsteine", "naturstein", "stein", "marmor", "granit", "gipskarton", "rigips", "steinwolle"],
+    "pt": ["betão", "concreto", "blocos de betão", "lajes de betão", "pedra", "pedras", "pedra natural", "mármore", "granito", "pladur", "lã de rocha"]
+   }, "theme": "materials"},
+  {"code": "32", "names": {"fr": "Peintures, encres et colorants", "en": "Paints, inks and dyes", "de": "Farben, Lacke und Tinten"},
+   "synonyms": {
+    "fr": ["peinture", "peintures", "peinture murale", "peinture acrylique", "peinture à l'eau", "vernis", "laque", "lasure", "encre", "encres", "encre d'imprimerie", "mastic", "enduit", "colorant", "colorants", "pigments"],
+    "en": ["paint", "paints", "wall paint", "emulsion paint", "acrylic paint", "varnish", "lacquer", "wood stain", "ink", "inks", "printing ink", "putty", "filler", "dye", "dyes", "pigments"],
+    "de": ["farbe", "farben", "wandfarbe", "dispersionsfarbe", "acrylfarbe", "lack", "lacke", "lasur", "holzlasur", "tinte", "tinten", "druckfarbe", "kitt", "spachtelmasse", "farbstoff", "pigmente"],
+    "pt": ["tinta", "tintas", "tinta de parede", "tinta acrílica", "verniz", "esmalte", "tinta de impressão", "betume de vidraceiro", "corante", "corantes", "pigmentos"]
+   }, "theme": "home"},
+  {"code": "3506", "names": {"fr": "Colles", "en": "Glues", "de": "Klebstoffe"},
+   "synonyms": {
+    "fr": ["colle", "colles", "colle forte", "colle à bois", "superglue", "adhésif", "adhésifs"],
+    "en": ["glue", "glues", "superglue", "wood glue", "adhesive", "adhesives"],
+    "de": ["kleber", "klebstoff", "klebstoffe", "leim", "sekundenkleber", "holzleim", "alleskleber"],
+    "pt": ["supercola", "cola branca", "cola de madeira", "adesivo", "adesivos"]
+   }, "theme": "materials"},
+  {"code": "31", "names": {"fr": "Engrais", "en": "Fertilisers", "de": "Düngemittel"},
+   "synonyms": {
+    "fr": ["engrais", "fertilisant", "fertilisants", "engrais azoté", "nitrate", "nitrates", "compost", "engrais naturel"],
+    "en": ["fertiliser", "fertilizer", "fertilisers", "fertilizers", "nitrogen fertiliser", "nitrate", "compost"],
+    "de": ["dünger", "duenger", "düngemittel", "duengemittel", "kunstdünger", "kunstduenger", "stickstoffdünger", "stickstoffduenger", "nitrat", "kompost"],
+    "pt": ["adubo", "adubos", "fertilizante", "fertilizantes", "nitrato", "composto"]
+   }, "theme": "materials"},
+  {"code": "29", "names": {"fr": "Produits chimiques organiques", "en": "Organic chemicals", "de": "Organische Chemikalien"},
+   "synonyms": {
+    "fr": ["produits chimiques", "produit chimique", "chimie", "chimique", "chimie organique", "acide", "acides", "alcools industriels", "solvant", "solvants"],
+    "en": ["chemicals", "chemical", "chemistry", "organic chemicals", "acid", "acids", "solvent", "solvents"],
+    "de": ["chemikalien", "chemie", "chemische erzeugnisse", "organische chemie", "säure", "saeure", "säuren", "saeuren", "lösungsmittel", "loesungsmittel"],
+    "pt": ["produtos químicos", "química", "químicos", "ácido", "ácidos", "solvente", "solventes"]
+   }, "theme": "industry"},
+  {"code": "93", "names": {"fr": "Armes et munitions", "en": "Weapons and ammunition", "de": "Waffen und Munition"},
+   "synonyms": {
+    "fr": ["arme", "armes", "arme à feu", "armes à feu", "fusil", "fusils", "fusil de chasse", "carabine", "pistolet", "pistolets", "revolver", "munition", "munitions", "cartouches", "armement"],
+    "en": ["weapon", "weapons", "arms", "firearms", "gun", "guns", "rifle", "rifles", "shotgun", "pistol", "pistols", "revolver", "ammunition", "ammo", "cartridges"],
+    "de": ["waffe", "waffen", "schusswaffe", "schusswaffen", "gewehr", "gewehre", "jagdgewehr", "pistole", "pistolen", "revolver", "munition", "patronen"],
+    "pt": ["arma", "armas", "armas de fogo", "espingarda", "pistola", "pistolas", "revólver", "munições", "cartuchos"]
+   }, "theme": "industry"},
+  {"code": "9503", "names": {"fr": "Jouets", "en": "Toys", "de": "Spielzeug"},
+   "synonyms": {
+    "fr": ["jouet", "jouets", "poupée", "poupées", "peluche", "peluches", "doudou", "lego", "legos", "playmobil", "puzzle", "puzzles", "maquette", "maquettes", "jeu de construction", "figurine", "figurines", "voiture télécommandée", "trottinette", "trottinettes", "tricycle", "ballons de baudruche"],
+    "en": ["toy", "toys", "doll", "dolls", "teddy bear", "soft toy", "plush", "lego", "puzzle", "puzzles", "jigsaw", "jigsaw puzzle", "model kit", "scale model", "action figure", "remote control car", "kick scooter", "tricycle", "balloons"],
+    "de": ["spielzeug", "spielsachen", "spielwaren", "puppe", "puppen", "kuscheltier", "plüschtier", "plueschtier", "teddybär", "teddybaer", "lego", "playmobil", "puzzle", "modellbau", "modellauto", "actionfigur", "ferngesteuertes auto", "tretroller", "dreirad", "luftballons"],
+    "lb": ["spillsaachen", "poppen", "lego"],
+    "pt": ["brinquedo", "brinquedos", "boneca", "bonecas", "peluche", "peluches", "lego", "puzzle", "quebra-cabeças", "maqueta", "carro telecomandado", "trotinete", "triciclo", "balões"]
+   }, "theme": "leisure"},
+  {"code": "9504", "names": {"fr": "Consoles et jeux", "en": "Consoles and games", "de": "Konsolen und Spiele"},
+   "synonyms": {
+    "fr": ["console", "consoles", "console de jeux", "consoles de jeux", "jeu vidéo", "jeux vidéo", "playstation", "ps5", "xbox", "nintendo", "manette", "manettes", "jeu de société", "jeux de société", "cartes à jouer", "jeu de cartes", "échecs", "billard", "flipper", "fléchettes", "baby-foot"],
+    "en": ["console", "consoles", "game console", "games console", "video game", "video games", "playstation", "ps5", "xbox", "nintendo", "controller", "gamepad", "board game", "board games", "playing cards", "chess", "billiards", "pool table", "pinball", "darts", "table football"],
+    "de": ["konsole", "spielkonsole", "spielkonsolen", "videospiel", "videospiele", "playstation", "ps5", "xbox", "nintendo", "controller", "gamepad", "brettspiel", "brettspiele", "gesellschaftsspiel", "spielkarten", "kartenspiel", "schach", "billard", "flipper", "dart", "tischkicker"],
+    "pt": ["consola", "consolas", "consola de jogos", "videojogo", "videojogos", "playstation", "ps5", "xbox", "nintendo", "comando", "jogo de tabuleiro", "jogos de tabuleiro", "cartas de jogar", "xadrez", "bilhar", "matraquilhos"]
+   }, "theme": "leisure"},
+  {"code": "9506", "names": {"fr": "Articles de sport", "en": "Sports equipment", "de": "Sportartikel"},
+   "synonyms": {
+    "fr": ["sport", "sports", "articles de sport", "équipement sportif", "ballon", "ballons", "ballon de foot", "raquette", "raquettes", "raquette de tennis", "ski", "skis", "snowboard", "planche de surf", "skateboard", "roller", "rollers", "patins", "patins à glace", "club de golf", "balles de golf", "haltères", "vélo d'appartement", "tapis de course", "appareil de fitness", "trampoline", "piscine", "piscine hors-sol"],
+    "en": ["sport", "sports", "sports equipment", "sporting goods", "ball", "balls", "football", "tennis racket", "racket", "skis", "ski", "snowboard", "surfboard", "skateboard", "roller skates", "inline skates", "ice skates", "golf clubs", "golf balls", "dumbbells", "weights", "exercise bike", "treadmill", "fitness equipment", "trampoline", "swimming pool"],
+    "de": ["sport", "sportartikel", "sportgeräte", "sportgeraete", "ball", "bälle", "baelle", "fußball", "fussball", "tennisschläger", "tennisschlaeger", "schläger", "schlaeger", "ski", "skier", "snowboard", "surfbrett", "skateboard", "inlineskates", "rollschuhe", "schlittschuhe", "golfschläger", "golfschlaeger", "golfbälle", "golfbaelle", "hanteln", "heimtrainer", "laufband", "fitnessgeräte", "fitnessgeraete", "trampolin", "pool", "swimmingpool"],
+    "pt": ["desporto", "artigos de desporto", "artigos desportivos", "bola", "bolas", "raquete", "raquete de ténis", "esqui", "esquis", "prancha de surf", "skate", "patins", "tacos de golfe", "halteres", "bicicleta estática", "passadeira", "trampolim", "piscina"]
+   }, "theme": "leisure"},
+  {"code": "92", "names": {"fr": "Instruments de musique", "en": "Musical instruments", "de": "Musikinstrumente"},
+   "synonyms": {
+    "fr": ["instrument de musique", "instruments de musique", "piano", "pianos", "guitare", "guitares", "violon", "violons", "violoncelle", "trompette", "flûte", "saxophone", "accordéon", "harmonica", "synthétiseur", "clavier musical"],
+    "en": ["musical instrument", "musical instruments", "piano", "pianos", "guitar", "guitars", "violin", "violins", "cello", "trumpet", "flute", "saxophone", "accordion", "harmonica", "synthesizer", "drum kit", "drums"],
+    "de": ["musikinstrument", "musikinstrumente", "klavier", "flügel", "fluegel", "gitarre", "gitarren", "geige", "geigen", "violine", "cello", "trompete", "flöte", "floete", "blockflöte", "blockfloete", "saxophon", "akkordeon", "mundharmonika", "synthesizer", "schlagzeug"],
+    "pt": ["instrumento musical", "instrumentos musicais", "piano", "guitarra", "guitarras", "violino", "violoncelo", "trompete", "flauta", "saxofone", "acordeão", "harmónica", "sintetizador"]
+   }, "theme": "leisure"},
+  {"code": "97", "names": {"fr": "Art et antiquités", "en": "Art and antiques", "de": "Kunst und Antiquitäten"},
+   "synonyms": {
+    "fr": ["art", "œuvre d'art", "oeuvre d'art", "œuvres d'art", "oeuvres d'art", "objet d'art", "antiquité", "antiquités", "objets de collection", "tableau", "tableaux", "tableau de maître", "peinture à l'huile", "aquarelle", "aquarelles", "dessin", "dessins", "sculpture", "sculptures", "timbres de collection"],
+    "en": ["art", "artwork", "artworks", "works of art", "antiques", "antique", "collectibles", "collectors' items", "painting", "paintings", "oil painting", "watercolour", "watercolor", "drawing", "drawings", "sculpture", "sculptures"],
+    "de": ["kunst", "kunstwerk", "kunstwerke", "kunstgegenstände", "kunstgegenstaende", "antiquitäten", "antiquitaeten", "antiquität", "antiquitaet", "sammlerstücke", "sammlerstuecke", "gemälde", "gemaelde", "ölgemälde", "oelgemaelde", "aquarell", "aquarelle", "zeichnung", "zeichnungen", "skulptur", "skulpturen"],
+    "pt": ["arte", "obra de arte", "obras de arte", "antiguidades", "objetos de coleção", "quadro", "quadros", "pintura", "pinturas", "aguarela", "desenho", "desenhos", "escultura", "esculturas"]
+   }, "theme": "leisure"},
+  {"code": "96", "names": {"fr": "Objets du quotidien", "en": "Everyday items", "de": "Alltagsgegenstände"},
+   "synonyms": {
+    "fr": ["stylo", "stylos", "stylo bille", "stylo-bille", "bic", "stylo plume", "feutre", "feutres", "marqueur", "marqueurs", "surligneur", "surligneurs", "crayon", "crayons", "crayon de couleur", "crayons de couleur", "crayon à papier", "craie", "craies", "pastels", "brosse", "brosses", "brosse à dents", "brosses à dents", "brosse à cheveux", "balai", "balais", "pinceau", "pinceaux", "rouleau de peinture", "serpillière", "briquet", "briquets", "boutons", "fermeture éclair", "peigne", "thermos"],
+    "en": ["pen", "pens", "ballpoint pen", "biro", "fountain pen", "felt-tip pen", "felt tips", "marker", "markers", "highlighter", "pencil", "pencils", "coloured pencils", "colored pencils", "crayons", "chalk", "pastels", "brush", "brushes", "toothbrush", "toothbrushes", "hairbrush", "broom", "brooms", "paintbrush", "paint roller", "mop", "lighter", "lighters", "buttons", "zip", "zipper", "comb", "thermos flask"],
+    "de": ["kugelschreiber", "kuli", "stift", "stifte", "füller", "fueller", "füllfederhalter", "fuellfederhalter", "filzstift", "filzstifte", "marker", "textmarker", "bleistift", "bleistifte", "buntstift", "buntstifte", "kreide", "wachsmalstifte", "bürste", "buerste", "bürsten", "buersten", "zahnbürste", "zahnbuerste", "zahnbürsten", "zahnbuersten", "haarbürste", "haarbuerste", "besen", "pinsel", "farbroller", "wischmopp", "feuerzeug", "feuerzeuge", "knöpfe", "knoepfe", "reißverschluss", "reissverschluss", "kamm", "thermoskanne"],
+    "lb": ["bläistëft"],
+    "pt": ["caneta", "canetas", "esferográfica", "marcador", "marcadores", "marcador fluorescente", "lápis", "lápis de cor", "giz", "giz de cera", "escova", "escovas", "escova de dentes", "escova de cabelo", "vassoura", "vassouras", "pincel", "pincéis", "rolo de pintura", "esfregona", "isqueiro", "isqueiros", "botões", "fecho éclair", "pente", "termo"]
+   }, "theme": "home"}
+ ]
+}

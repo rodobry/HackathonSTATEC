@@ -1,0 +1,26 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Python, API and MCP tests
+        run: docker build --target test --label ci.ephemeral=true -t hackathon-test:${GITHUB_SHA} .
+
+      - name: JavaScript tests
+        run: docker build --target jstest --label ci.ephemeral=true -t hackathon-jstest:${GITHUB_SHA} .
+
+      - name: Validate compose
+        run: docker compose -f compose.yml config >/dev/null
+
+      - name: Cleanup
+        if: always()
+        run: docker image rm -f hackathon-test:${GITHUB_SHA} hackathon-jstest:${GITHUB_SHA} 2>/dev/null || true
